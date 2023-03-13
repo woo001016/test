@@ -181,7 +181,7 @@
   </data>
   <data name="ft_info.text" xml:space="preserve">
     <value>&lt;div&gt;
-                                            &lt;p&gt;CEO  Won-Yil Kim&lt;/p&gt;
+                                            &lt;p&gt;CEO  Won-Il Kim&lt;/p&gt;
                                             &lt;p&gt;Business Registraion Number&lt;br&gt;584-87-02619&lt;/p&gt;
                                         &lt;/div&gt;
                                         &lt;div&gt;
@@ -201,7 +201,7 @@
     <value>&lt;p class="b_txt"&gt;The foundation of &lt;br&gt;LS e-Mobility Solutions is &lt;br&gt;our focus and gratitude&lt;br&gt;towards our customers&lt;/p&gt;</value>
   </data>
   <data name="m_ft_info.text" xml:space="preserve">
-    <value>&lt;p&gt;CEO  Won-Yil Kim&lt;/p&gt;
+    <value>&lt;p&gt;CEO  Won-Il Kim&lt;/p&gt;
                                         &lt;p&gt;Business Registraion Number &lt;br&gt;584-87-02619&lt;/p&gt;
                                         &lt;p&gt;Chengju 1 Factory, 95, Baekbong-ro, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do, Korea (28439) &lt;/p&gt;</value>
   </data>
@@ -228,5 +228,8 @@
   </data>
   <data name="txt_sitemap.text" xml:space="preserve">
     <value>Sitemap</value>
+  </data>
+  <data name="btn_download.text" xml:space="preserve">
+    <value>&lt;span&gt;Material&lt;/span&gt;&lt;span&gt;Download&lt;/span&gt;</value>
   </data>
 </root>
