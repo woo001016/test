@@ -176,13 +176,17 @@
                                             <figure>
                                                 <img src="/common/img/ko/business/img_ev_area1.jpg" alt="ESS">
                                             </figure>
-                                            <p class="desc">ESS</p>
+                                            <p class="desc">
+												<asp:Literal runat="server" meta:resourcekey="ess"/>
+											</p>
                                         </li>
                                         <li>
                                             <figure>
                                                 <img src="/common/img/ko/business/img_ev_area2.jpg" alt="EV Charger">
                                             </figure>
-                                            <p class="desc">EV Charger</p>
+                                            <p class="desc">
+												<asp:Literal runat="server" meta:resourcekey="ev_charger"/>
+											</p>
                                         </li>
                                     </ul>
                                 </div>
@@ -196,7 +200,7 @@
                 <!----- 서브 컨텐츠 (e) ----->
 				<div id="quickDown">
 					<div class="inner">
-						<a href="<%:Lang.Href("/business/ev-relay/info#materialDownload") %>" class="btn_quick"><span>Material</span><span>Download</span></a>
+						<a href="<%:Lang.Href("/business/ev-relay/info#materialDownload") %>" class="btn_quick"><asp:Literal runat="server" meta:resourcekey="btn_download"/></a>
 					</div>
 				</div>
 
@@ -350,13 +354,13 @@
                                         <figure>
                                             <img src="/common/img/ko/business/mobile/img_ev_area1.jpg" alt="ESS">
                                         </figure>
-                                        <p class="desc">ESS</p>
+                                        <p class="desc"><asp:Literal runat="server" meta:resourcekey="ess"/></p>
                                     </li>
                                     <li>
                                         <figure>
                                             <img src="/common/img/ko/business/mobile/img_ev_area2.jpg" alt="EV Charger">
                                         </figure>
-                                        <p class="desc">EV Charger</p>
+                                        <p class="desc"><asp:Literal runat="server" meta:resourcekey="ev_charger"/></p>
                                     </li>
                                 </ul>
                             </div>

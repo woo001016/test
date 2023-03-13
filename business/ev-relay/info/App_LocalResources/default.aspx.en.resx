@@ -124,7 +124,7 @@
     <value>SELECT</value>
   </data>
   <data name="download_link.text" xml:space="preserve">
-    <value>/en/business/ev-relay/info/download/catalog/EV_Relay_Catalog_EN.pdf</value>
+    <value>/en/business/ev-relay/info/download/catalog/EV_Relay_Catalog_EN_230313.pdf</value>
   </data>
   <data name="img_ordering1.text" xml:space="preserve">
     <value>&lt;img src="/common/img/en/business/img_ordering1.jpg" alt="Ordering information"&gt;</value>
@@ -154,7 +154,7 @@
     <value>Scroll</value>
   </data>
   <data name="m_table_tit3.text" xml:space="preserve">
-    <value>Cadalog &lt;br&gt;&lt;span class="t_small"&gt;(Data Sheet)&lt;/span&gt;</value>
+    <value>Catalog &lt;br&gt;&lt;span class="t_small"&gt;(Data Sheet)&lt;/span&gt;</value>
   </data>
   <data name="side_tit1.text" xml:space="preserve">
     <value>Reference</value>
@@ -169,7 +169,7 @@
     <value>Model</value>
   </data>
   <data name="table_tit2.text" xml:space="preserve">
-    <value>Cadalog</value>
+    <value>Catalog</value>
   </data>
   <data name="table_tit3.text" xml:space="preserve">
     <value>Data Sheet</value>
@@ -185,5 +185,8 @@
   </data>
   <data name="vis_tit.text" xml:space="preserve">
     <value>EV Relay</value>
+  </data>
+  <data name="btn_download.text" xml:space="preserve">
+    <value>&lt;span&gt;Material&lt;/span&gt;&lt;span&gt;Download&lt;/span&gt;</value>
   </data>
 </root>

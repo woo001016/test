@@ -124,7 +124,7 @@
     <value>产品选择</value>
   </data>
   <data name="download_link.text" xml:space="preserve">
-    <value>/en/business/ev-relay/info/download/catalog/EV_Relay_Catalog_EN.pdf</value>
+    <value>/en/business/ev-relay/info/download/catalog/EV_Relay_Catalog_EN_230313.pdf</value>
   </data>
   <data name="img_ordering1.text" xml:space="preserve">
     <value>&lt;img src="/common/img/cn/business/img_ordering1.jpg" alt="型名体系"&gt;</value>
@@ -185,5 +185,8 @@
   </data>
   <data name="vis_tit.text" xml:space="preserve">
     <value>LS电动科技 业务介绍</value>
+  </data>
+  <data name="btn_download.text" xml:space="preserve">
+    <value>&lt;span&gt;资料 下载&lt;/span&gt;</value>
   </data>
 </root>

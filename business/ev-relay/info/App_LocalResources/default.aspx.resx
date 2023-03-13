@@ -124,7 +124,7 @@
     <value>제품 선택</value>
   </data>
   <data name="download_link.text" xml:space="preserve">
-    <value>/en/business/ev-relay/info/download/catalog/EV_Relay_Catalog_KO.pdf</value>
+    <value>/en/business/ev-relay/info/download/catalog/EV_Relay_Catalog_KO_230313.pdf</value>
   </data>
   <data name="img_ordering1.text" xml:space="preserve">
     <value>&lt;img src="/common/img/ko/business/img_ordering1.jpg" alt="형명체계"&gt;</value>
@@ -139,7 +139,7 @@
     <value>EV Relay 시리즈는 국내외 Global 자동차사의 친환경 프로젝트에 다수 적용되었고 &lt;br&gt;신뢰성과 안정성을 입증 받았습니다.</value>
   </data>
   <data name="more_txt.text" xml:space="preserve">
-    <value>자세히보기</value>
+    <value>자세히 보기</value>
   </data>
   <data name="m_btn_cat_down.text" xml:space="preserve">
     <value>Catalog Download</value>
@@ -185,5 +185,8 @@
   </data>
   <data name="vis_tit.text" xml:space="preserve">
     <value>LS e-모빌리티솔루션 사업소개</value>
+  </data>
+  <data name="btn_download.text" xml:space="preserve">
+    <value>&lt;span&gt;Material&lt;/span&gt;&lt;span&gt;Download&lt;/span&gt;</value>
   </data>
 </root>

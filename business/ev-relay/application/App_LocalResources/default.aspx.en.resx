@@ -175,4 +175,7 @@ is most commonly applied in EV, small vehicle batteries, and ESS.</value>
   <data name="vis_tit.text" xml:space="preserve">
     <value>EV Relay</value>
   </data>
+  <data name="btn_download.text" xml:space="preserve">
+    <value>&lt;span&gt;Material&lt;/span&gt;&lt;span&gt;Download&lt;/span&gt;</value>
+  </data>
 </root>
