@@ -118,156 +118,161 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="center_box.text" xml:space="preserve">
-    <value>고객 요구사항</value>
+    <value>产品要求事项</value>
   </data>
   <data name="center_txt1.text" xml:space="preserve">
-    <value>Customer</value>
+    <value>客户</value>
   </data>
   <data name="center_txt2.text" xml:space="preserve">
-    <value>ORDER TYPE</value>
+    <value>订单类型</value>
   </data>
   <data name="con3_tit1.text" xml:space="preserve">
-    <value>BDU 디자인</value>
+    <value>BDU 设计</value>
   </data>
   <data name="con3_tit2.text" xml:space="preserve">
-    <value>열 분석</value>
+    <value>热分析</value>
   </data>
   <data name="con3_tit3.text" xml:space="preserve">
-    <value>랜덤 진동 분석</value>
+    <value>随机振动分析</value>
   </data>
   <data name="con3_tit4.text" xml:space="preserve">
-    <value>절연 분석</value>
+    <value>绝缘分析</value>
   </data>
   <data name="con3_tit5.text" xml:space="preserve">
-    <value>모델 분석</value>
+    <value>模型分析</value>
   </data>
   <data name="img1.text" xml:space="preserve">
-    <value>&lt;img src="/common/img/ko/business/img_bdu_detail.jpg" alt="주요 부품"&gt;</value>
+    <value>&lt;img src="/common/img/cn/business/img_bdu_detail.jpg" alt="主要部件"&gt;</value>
   </data>
   <data name="info_ab_txt1.text" xml:space="preserve">
-    <value>검증 및 개선방안 피드백</value>
+    <value>验证和改进方案反馈</value>
   </data>
   <data name="info_a_txt1.text" xml:space="preserve">
-    <value>제품 &amp; 프로세스 디자인&lt;br&gt;시뮬레이션&lt;br&gt;부품 소싱&lt;br&gt;프로토타입 &amp; 파일럿&lt;br&gt;시험&lt;br&gt;제품 출시</value>
+    <value>产品&amp;工艺设计&lt;br&gt;
+                                            模拟&lt;br&gt;
+                                            部件采购&lt;br&gt;
+                                            原型&amp;试行&lt;br&gt;
+                                            测试&lt;br&gt;
+                                            产品发布</value>
   </data>
   <data name="info_b_txt1.text" xml:space="preserve">
-    <value>고객요구 만족 디자인&lt;br&gt;프로토타입 &amp; 파일럿&lt;br&gt;시험&lt;br&gt;제품 출시</value>
+    <value>满足顾客要求的设计&lt;br&gt;
+                                            原型&amp;试行&lt;br&gt;
+                                            测试&lt;br&gt;
+                                            产品发布</value>
   </data>
   <data name="info_txt1.text" xml:space="preserve">
-    <value>BDU (Battery Disconnect Unit)는 Relay와 전류 센서, Pre-charge 저항, 퓨즈 등이 조합된 모듈로서 &lt;br&gt;배터리와 인버터 사이에 장착되는 제품입니다. BDU는 고객 요구 사항에 맞추어 개발됩니다.</value>
+    <value>BDU (Battery Disconnect Unit) 是由继电器和电流传感器、预充电阻、&lt;br&gt;保险丝等组成的模块，位于电池和逆变器之间。 BDU是根据顾客要求进行开发。</value>
   </data>
   <data name="info_txt2.text" xml:space="preserve">
-    <value>위급상황 시에 &lt;br&gt;HV 시스템을 차단함</value>
+    <value>紧急情况下切断 HV系统</value>
   </data>
   <data name="info_txt3.text" xml:space="preserve">
-    <value>HV시스템의 &lt;br&gt;Ripple Noise를 감소</value>
+    <value>减少 HV 系统的纹波噪声</value>
   </data>
   <data name="list_desc1.text" xml:space="preserve">
-    <value>정격전류&lt;br&gt;
-                                                정격전압&lt;br&gt;
-                                                전류용량&lt;br&gt;
-                                                접촉저항&lt;br&gt;
-                                                단략전류&lt;br&gt;
-                                                절연저항</value>
+    <value>额定电流&lt;br&gt;
+                                                额定电压&lt;br&gt;
+                                                电流容量&lt;br&gt;
+                                                接触电阻&lt;br&gt;
+                                                短路电流&lt;br&gt;
+                                                绝缘电阻</value>
   </data>
   <data name="list_desc2.text" xml:space="preserve">
-    <value>사이즈&lt;br&gt;
-                                                무게&lt;br&gt;
-                                                레이아웃&lt;br&gt;
-                                                장착 위치&lt;br&gt;
-                                                방전/방수 등급&lt;br&gt;
-                                                기계적 충격&lt;br&gt;
-                                                랜덤 진동</value>
+    <value>尺寸&lt;br&gt;
+                                                重量&lt;br&gt;
+                                                布局&lt;br&gt;
+                                                安装位置&lt;br&gt;
+                                                放电/防水等级&lt;br&gt;
+                                                机械冲击&lt;br&gt;
+                                                随机振动</value>
   </data>
   <data name="list_desc3.text" xml:space="preserve">
-    <value>정상 작동 온도&lt;br&gt;
-                                                습도&lt;br&gt;
-                                                열충격&lt;br&gt;
-                                                물분사&lt;br&gt;
-                                                염무 분사</value>
+    <value>正常工作温度&lt;br&gt;
+                                                湿度&lt;br&gt;
+                                                热冲击&lt;br&gt;
+                                                水喷雾&lt;br&gt;
+                                                盐雾</value>
   </data>
   <data name="list_tit1.text" xml:space="preserve">
-    <value>전기적 성능</value>
+    <value>电气性能</value>
   </data>
   <data name="list_tit2.text" xml:space="preserve">
-    <value>제품 배치 정보</value>
+    <value>产品配置信息</value>
   </data>
   <data name="list_tit3.text" xml:space="preserve">
-    <value>환경조건</value>
+    <value>环境条件</value>
   </data>
   <data name="list_txt1.text" xml:space="preserve">
-    <value>추가 부품</value>
+    <value>附加部件</value>
   </data>
   <data name="m_con3_tit2.text" xml:space="preserve">
-    <value>열 분석</value>
+    <value>热分析</value>
   </data>
   <data name="m_con3_tit3.text" xml:space="preserve">
-    <value>절연 분석</value>
+    <value>绝缘分析</value>
   </data>
   <data name="m_con3_tit4.text" xml:space="preserve">
-    <value>랜덤 진동 분석</value>
+    <value>随机振动分析</value>
   </data>
   <data name="m_con3_tit5.text" xml:space="preserve">
-    <value>모델 분석</value>
+    <value>模型分析</value>
   </data>
   <data name="m_img1.text" xml:space="preserve">
-    <value>&lt;img src="/common/img/ko/business/mobile/img_bdu_detail.jpg" alt="주요 부품"&gt;</value>
+    <value>&lt;img src="/common/img/cn/business/mobile/img_bdu_detail.jpg" alt="主要部件"&gt;</value>
   </data>
   <data name="m_info_txt1.text" xml:space="preserve">
-    <value>BDU (Battery Disconnect Unit)는 Relay와 &lt;br&gt;전류 센서, Pre-charge 저항, 퓨즈 등이 &lt;br&gt;조합된 모듈로서 배터리와 인버터 사이에 &lt;br&gt;장착되는 제품입니다. &lt;br&gt;BDU는 고객 요구 사항에 맞추어 개발됩니다.</value>
+    <value>BDU (Battery Disconnect Unit) &lt;br&gt;是由继电器和电流传感器、&lt;br&gt;预充电阻、保险丝等组成的模块, &lt;br&gt;位于电池和逆变器之间。&lt;br&gt;BDU是根据顾客要求进行开发。</value>
   </data>
   <data name="m_info_txt2.text" xml:space="preserve">
-    <value>위급상황 시에 &lt;br&gt;HV 시스템을 차단함</value>
+    <value>紧急情况下切断 HV系统</value>
   </data>
   <data name="m_info_txt3.text" xml:space="preserve">
-    <value>HV시스템의 &lt;br&gt;Ripple Noise를 감소</value>
+    <value>减少 HV 系统的纹波噪声</value>
   </data>
   <data name="m_list_desc1.text" xml:space="preserve">
-    <value>&lt;span&gt;정격전류&lt;br&gt;정격전압&lt;br&gt;전류용량&lt;/span&gt;
-                                                &lt;span&gt;접촉저항&lt;br&gt;단략전류&lt;br&gt;절연저항&lt;/span&gt;</value>
+    <value>&lt;span&gt;额定电流&lt;br&gt;额定电压&lt;br&gt;电流容量&lt;/span&gt;
+                                                &lt;span&gt;接触电阻&lt;br&gt;短路电流&lt;br&gt;绝缘电阻&lt;/span&gt;</value>
   </data>
   <data name="m_list_desc2.text" xml:space="preserve">
-    <value>&lt;span&gt;사이즈&lt;br&gt;무게&lt;br&gt;레이아웃&lt;br&gt;장착 위치&lt;/span&gt;
-                                                &lt;span&gt;방전/방수 등급&lt;br&gt;기계적 충격&lt;br&gt;랜덤 진동&lt;/span&gt;</value>
+    <value>&lt;span&gt;尺寸&lt;br&gt;重量&lt;br&gt;布局&lt;br&gt;安装位置&lt;/span&gt;
+                                                &lt;span&gt;放电/防水等级&lt;br&gt;机械冲击&lt;br&gt;随机振动&lt;/span&gt;</value>
   </data>
   <data name="m_list_desc3.text" xml:space="preserve">
-    <value>&lt;span&gt;정상 작동 온도&lt;br&gt;습도&lt;br&gt;열충격&lt;/span&gt;
-                                                &lt;span&gt;물분사&lt;br&gt;염무 분사&lt;/span&gt;</value>
+    <value>&lt;span&gt;正常工作温度&lt;br&gt;湿度&lt;br&gt;热冲击&lt;/span&gt;
+                                                &lt;span&gt;水喷雾&lt;br&gt;盐雾&lt;/span&gt;</value>
   </data>
   <data name="m_list_tit1.text" xml:space="preserve">
-    <value>전기적 성능</value>
+    <value>电气性能</value>
   </data>
   <data name="m_list_tit2.text" xml:space="preserve">
-    <value>제품 배치 정보</value>
+    <value>产品配置信息</value>
   </data>
   <data name="m_list_tit3.text" xml:space="preserve">
-    <value>환경조건</value>
+    <value>环境条件</value>
   </data>
   <data name="m_list_txt1.text" xml:space="preserve">
-    <value>추가 부품</value>
+    <value>附加部件</value>
   </data>
   <data name="txt_tit1.text" xml:space="preserve">
-    <value>개발 프로세스</value>
+    <value>开发流程</value>
   </data>
   <data name="txt_tit2.text" xml:space="preserve">
-    <value>주요 부품</value>
+    <value>主要部件</value>
   </data>
   <data name="txt_tit3.text" xml:space="preserve">
-    <value>디자인 프로세스</value>
+    <value>设计流程</value>
   </data>
   <data name="txt_tit4.text" xml:space="preserve">
-    <value>납품 실적</value>
+    <value>交货实绩</value>
   </data>
   <data name="type_txt1.text" xml:space="preserve">
-    <value>Standard</value>
+    <value>产品要求事项</value>
   </data>
   <data name="type_txt2.text" xml:space="preserve">
     <value>Build to Print</value>
   </data>
   <data name="vis_tit.text" xml:space="preserve">
-    <value>LS e-모빌리티솔루션 사업소개</value>
-  </data>
-  <data name="btn_download.text" xml:space="preserve">
-    <value>&lt;span&gt;Material&lt;/span&gt;&lt;span&gt;Download&lt;/span&gt;</value>
+    <value>LS电动科技 业务介绍</value>
   </data>
 </root>

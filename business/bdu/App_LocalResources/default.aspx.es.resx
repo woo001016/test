@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="center_box.text" xml:space="preserve">
-    <value>고객 요구사항</value>
+    <value>Requerimientos del cliente</value>
   </data>
   <data name="center_txt1.text" xml:space="preserve">
     <value>Customer</value>
@@ -127,136 +127,148 @@
     <value>ORDER TYPE</value>
   </data>
   <data name="con3_tit1.text" xml:space="preserve">
-    <value>BDU 디자인</value>
+    <value>BDU Diseño</value>
   </data>
   <data name="con3_tit2.text" xml:space="preserve">
-    <value>열 분석</value>
+    <value>Analisis&lt;br&gt;térmico</value>
   </data>
   <data name="con3_tit3.text" xml:space="preserve">
-    <value>랜덤 진동 분석</value>
+    <value>Analisis de&lt;br&gt;vibraciones&lt;br&gt;aleatorias</value>
   </data>
   <data name="con3_tit4.text" xml:space="preserve">
-    <value>절연 분석</value>
+    <value>Analisis de&lt;br&gt;aislacion&lt;br&gt;eléctrica</value>
   </data>
   <data name="con3_tit5.text" xml:space="preserve">
-    <value>모델 분석</value>
+    <value>Analisis de&lt;br&gt;piezas</value>
   </data>
   <data name="img1.text" xml:space="preserve">
-    <value>&lt;img src="/common/img/ko/business/img_bdu_detail.jpg" alt="주요 부품"&gt;</value>
+    <value>&lt;img src="/common/img/es/business/img_bdu_detail.jpg" alt="main component"&gt;</value>
   </data>
   <data name="info_ab_txt1.text" xml:space="preserve">
-    <value>검증 및 개선방안 피드백</value>
+    <value>Retroalimentacion del plan de verificación y mejoras</value>
   </data>
   <data name="info_a_txt1.text" xml:space="preserve">
-    <value>제품 &amp; 프로세스 디자인&lt;br&gt;시뮬레이션&lt;br&gt;부품 소싱&lt;br&gt;프로토타입 &amp; 파일럿&lt;br&gt;시험&lt;br&gt;제품 출시</value>
+    <value>Product &amp;Planificación de diseños y procesos productivos&lt;br&gt;Simulación&lt;br&gt;Adquisición de materiales&lt;br&gt;Pruebas piloto &amp; prototipos&lt;br&gt;Testeo&lt;br&gt;Lanzamiento</value>
   </data>
   <data name="info_b_txt1.text" xml:space="preserve">
-    <value>고객요구 만족 디자인&lt;br&gt;프로토타입 &amp; 파일럿&lt;br&gt;시험&lt;br&gt;제품 출시</value>
+    <value>Validación de diseño por el cliente&lt;br&gt;Pruebas piloto &amp; prototipos&lt;br&gt;Testeo&lt;br&gt;Lanzamiento</value>
   </data>
   <data name="info_txt1.text" xml:space="preserve">
-    <value>BDU (Battery Disconnect Unit)는 Relay와 전류 센서, Pre-charge 저항, 퓨즈 등이 조합된 모듈로서 &lt;br&gt;배터리와 인버터 사이에 장착되는 제품입니다. BDU는 고객 요구 사항에 맞추어 개발됩니다.</value>
+    <value>BDU (Unidad de Desconexion de Bateria) es un módulo compuesto por Relay`s,&lt;br&gt;fusibles, resistencias de precarga y sensores. Ubicado entre la bateria y el inversor.&lt;br&gt;El diseño del BDU es realizado a las neceidades especificas de cada cliente.</value>
   </data>
   <data name="info_txt2.text" xml:space="preserve">
-    <value>위급상황 시에 &lt;br&gt;HV 시스템을 차단함</value>
+    <value>Disconnect HV system&lt;br&gt;from emergencies situation</value>
   </data>
   <data name="info_txt3.text" xml:space="preserve">
-    <value>HV시스템의 &lt;br&gt;Ripple Noise를 감소</value>
+    <value>Reduce ripple noise for&lt;br&gt;HV system</value>
   </data>
   <data name="list_desc1.text" xml:space="preserve">
-    <value>정격전류&lt;br&gt;
-                                                정격전압&lt;br&gt;
-                                                전류용량&lt;br&gt;
-                                                접촉저항&lt;br&gt;
-                                                단략전류&lt;br&gt;
-                                                절연저항</value>
+    <value>Corriente nominal&lt;br&gt;
+                                                Tensión nominal&lt;br&gt;
+                                                Capacidad actual&lt;br&gt;
+                                                Resistencia de contacto&lt;br&gt;
+                                                Corriente de cortocircuito&lt;br&gt;
+                                                Resistencia de aislamiento</value>
   </data>
   <data name="list_desc2.text" xml:space="preserve">
-    <value>사이즈&lt;br&gt;
-                                                무게&lt;br&gt;
-                                                레이아웃&lt;br&gt;
-                                                장착 위치&lt;br&gt;
-                                                방전/방수 등급&lt;br&gt;
-                                                기계적 충격&lt;br&gt;
-                                                랜덤 진동</value>
+    <value>Tamaño&lt;br&gt;
+                                                Peso&lt;br&gt;
+                                                Layout&lt;br&gt;
+                                                Posicion de montaje&lt;br&gt;
+                                                Grado IP&lt;br&gt;
+                                                Impacto mecánico&lt;br&gt;
+                                                Vibracion aleatoria</value>
   </data>
   <data name="list_desc3.text" xml:space="preserve">
-    <value>정상 작동 온도&lt;br&gt;
-                                                습도&lt;br&gt;
-                                                열충격&lt;br&gt;
-                                                물분사&lt;br&gt;
-                                                염무 분사</value>
+    <value>Temperatura de funcionamiento&lt;br&gt;
+                                                Humedad&lt;br&gt;
+                                                Choque térmico&lt;br&gt;
+                                                Salpicaduras de liquido&lt;br&gt;
+                                                Salpicaduras de sales</value>
   </data>
   <data name="list_tit1.text" xml:space="preserve">
-    <value>전기적 성능</value>
+    <value>Rendimiento&lt;br&gt;electrico</value>
   </data>
   <data name="list_tit2.text" xml:space="preserve">
-    <value>제품 배치 정보</value>
+    <value>Disposición&lt;br&gt;de piezas</value>
   </data>
   <data name="list_tit3.text" xml:space="preserve">
-    <value>환경조건</value>
+    <value>Condiciones&lt;br&gt;ambientales</value>
   </data>
   <data name="list_txt1.text" xml:space="preserve">
-    <value>추가 부품</value>
+    <value>Additional components</value>
   </data>
   <data name="m_con3_tit2.text" xml:space="preserve">
-    <value>열 분석</value>
+    <value>Analisis térmico</value>
   </data>
   <data name="m_con3_tit3.text" xml:space="preserve">
-    <value>절연 분석</value>
+    <value>Analisis de aislacion eléctrica</value>
   </data>
   <data name="m_con3_tit4.text" xml:space="preserve">
-    <value>랜덤 진동 분석</value>
+    <value>Analisis de vibraciones aleatorias</value>
   </data>
   <data name="m_con3_tit5.text" xml:space="preserve">
-    <value>모델 분석</value>
+    <value>Analisis de piezas</value>
   </data>
   <data name="m_img1.text" xml:space="preserve">
-    <value>&lt;img src="/common/img/ko/business/mobile/img_bdu_detail.jpg" alt="주요 부품"&gt;</value>
+    <value>&lt;img src="/common/img/es/business/mobile/img_bdu_detail.jpg" alt="Main Component"&gt;</value>
   </data>
   <data name="m_info_txt1.text" xml:space="preserve">
-    <value>BDU (Battery Disconnect Unit)는 Relay와 &lt;br&gt;전류 센서, Pre-charge 저항, 퓨즈 등이 &lt;br&gt;조합된 모듈로서 배터리와 인버터 사이에 &lt;br&gt;장착되는 제품입니다. &lt;br&gt;BDU는 고객 요구 사항에 맞추어 개발됩니다.</value>
+    <value>BDU (Unidad de Desconexion de Bateria) es un módulo compuesto por Relay`s, fusibles, resistencias de precarga y sensores. Ubicado entre la bateria y el inversor. El diseño del BDU es realizado a las neceidades especificas de cada cliente.</value>
   </data>
   <data name="m_info_txt2.text" xml:space="preserve">
-    <value>위급상황 시에 &lt;br&gt;HV 시스템을 차단함</value>
+    <value>Disconnect HV system from emergencies situation</value>
   </data>
   <data name="m_info_txt3.text" xml:space="preserve">
-    <value>HV시스템의 &lt;br&gt;Ripple Noise를 감소</value>
+    <value>Reduce ripple noise for HV system</value>
   </data>
   <data name="m_list_desc1.text" xml:space="preserve">
-    <value>&lt;span&gt;정격전류&lt;br&gt;정격전압&lt;br&gt;전류용량&lt;/span&gt;
-                                                &lt;span&gt;접촉저항&lt;br&gt;단략전류&lt;br&gt;절연저항&lt;/span&gt;</value>
+    <value>Corriente nominal&lt;br&gt;
+                                                Tensión nominal&lt;br&gt;
+                                                Capacidad actual&lt;br&gt;
+                                                Resistencia de contacto&lt;br&gt;
+                                                Corriente de cortocircuito&lt;br&gt;
+                                                Resistencia de aislamiento</value>
   </data>
   <data name="m_list_desc2.text" xml:space="preserve">
-    <value>&lt;span&gt;사이즈&lt;br&gt;무게&lt;br&gt;레이아웃&lt;br&gt;장착 위치&lt;/span&gt;
-                                                &lt;span&gt;방전/방수 등급&lt;br&gt;기계적 충격&lt;br&gt;랜덤 진동&lt;/span&gt;</value>
+    <value>Tamaño&lt;br&gt;
+                                                Peso&lt;br&gt;
+                                                Layout&lt;br&gt;
+                                                Posicion de montaje&lt;br&gt;
+                                                Grado IP&lt;br&gt;
+                                                Impacto mecánico&lt;br&gt;
+                                                Vibracion aleatoria</value>
   </data>
   <data name="m_list_desc3.text" xml:space="preserve">
-    <value>&lt;span&gt;정상 작동 온도&lt;br&gt;습도&lt;br&gt;열충격&lt;/span&gt;
-                                                &lt;span&gt;물분사&lt;br&gt;염무 분사&lt;/span&gt;</value>
+    <value>Temperatura de funcionamiento&lt;br&gt;
+                                                Humedad&lt;br&gt;
+                                                Choque térmico&lt;br&gt;
+                                                Salpicaduras de liquido&lt;br&gt;
+                                                Salpicaduras de sales</value>
   </data>
   <data name="m_list_tit1.text" xml:space="preserve">
-    <value>전기적 성능</value>
+    <value>Rendimiento electrico</value>
   </data>
   <data name="m_list_tit2.text" xml:space="preserve">
-    <value>제품 배치 정보</value>
+    <value>Disposición de piezas</value>
   </data>
   <data name="m_list_tit3.text" xml:space="preserve">
-    <value>환경조건</value>
+    <value>Condiciones ambientales</value>
   </data>
   <data name="m_list_txt1.text" xml:space="preserve">
-    <value>추가 부품</value>
+    <value>Additional &lt;br&gt;components</value>
   </data>
   <data name="txt_tit1.text" xml:space="preserve">
-    <value>개발 프로세스</value>
+    <value>Requisitos del producto</value>
   </data>
   <data name="txt_tit2.text" xml:space="preserve">
-    <value>주요 부품</value>
+    <value>Coponentes principales</value>
   </data>
   <data name="txt_tit3.text" xml:space="preserve">
-    <value>디자인 프로세스</value>
+    <value>Proceso de diseño</value>
   </data>
   <data name="txt_tit4.text" xml:space="preserve">
-    <value>납품 실적</value>
+    <value>Cliente</value>
   </data>
   <data name="type_txt1.text" xml:space="preserve">
     <value>Standard</value>
@@ -265,9 +277,9 @@
     <value>Build to Print</value>
   </data>
   <data name="vis_tit.text" xml:space="preserve">
-    <value>LS e-모빌리티솔루션 사업소개</value>
+    <value>EV Relay</value>
   </data>
   <data name="btn_download.text" xml:space="preserve">
-    <value>&lt;span&gt;Material&lt;/span&gt;&lt;span&gt;Download&lt;/span&gt;</value>
+    <value>&lt;span&gt;Descarga&lt;span&gt;&lt;/span&gt;de material&lt;/span&gt;</value>
   </data>
 </root>
