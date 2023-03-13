@@ -121,40 +121,46 @@
     <value>Contact Information</value>
   </data>
   <data name="con_pur.text" xml:space="preserve">
-    <value>Purchasing Support</value>
+    <value>Contacto de&lt;br&gt;Gerente de compras</value>
   </data>
   <data name="con_bdu.text" xml:space="preserve">
-    <value>BDU Sales Support</value>
+    <value>Contacto de asistencia en BDU</value>
   </data>
   <data name="con_relay.text" xml:space="preserve">
-    <value>EV Relay Sales Support</value>
+    <value>Contacto de EV Relay</value>
+  </data>
+  <data name="con_sales.text" xml:space="preserve">
+    <value>Sales Contact Information</value>
   </data>
   <data name="con_tech.text" xml:space="preserve">
-    <value>Technical Support</value>
+    <value>Technical Contact Information</value>
   </data>
   <data name="con_tit_pur.text" xml:space="preserve">
-    <value>Purchase &lt;br&gt;Support</value>
+    <value>Contacto de&lt;br&gt;Gerente de compras</value>
   </data>
   <data name="organization.text" xml:space="preserve">
-    <value>&lt;img src="/common/img/en/customer/organization.jpg" alt="organization"&gt;</value>
+    <value>&lt;img src="/common/img/es/customer/organization.jpg" alt="조직도"&gt;</value>
   </data>
   <data name="m_organization.text" xml:space="preserve">
-    <value>&lt;img src="/common/img/en/customer/mobile/organization.jpg" alt="organization"&gt;</value>
+    <value>&lt;img src="/common/img/es/customer/mobile/organization.jpg" alt="조직도"&gt;</value>
   </data>
   <data name="con_tit_bdu.text" xml:space="preserve">
-    <value>BDU Sales&lt;br&gt;Support</value>
+    <value>Contacto de&lt;br&gt;asistencia en BDU</value>
   </data>
   <data name="con_tit_relay.text" xml:space="preserve">
-    <value>EV Relay Sales&lt;br&gt;Support</value>
+    <value>Contacto de&lt;br&gt;EV Relay</value>
+  </data>
+  <data name="con_tit_sales.text" xml:space="preserve">
+    <value>Sales&lt;br&gt;Contact Information</value>
   </data>
   <data name="con_tit_tech.text" xml:space="preserve">
-    <value>Technical&lt;br&gt;Support</value>
+    <value>Contacto de&lt;br&gt;Asistencia técnica</value>
   </data>
   <data name="m_tb_td1.text" xml:space="preserve">
-    <value>System Sales</value>
+    <value>Sistema</value>
   </data>
   <data name="m_tb_td2.text" xml:space="preserve">
-    <value>System Sales</value>
+    <value>Sistema</value>
   </data>
   <data name="m_tb_td3.text" xml:space="preserve">
     <value>Asia</value>
@@ -163,31 +169,34 @@
     <value>China</value>
   </data>
   <data name="tb_tech_td1.text" xml:space="preserve">
-    <value>Engineering team</value>
+    <value>técnica</value>
   </data>
   <data name="tb_relay_td1.text" xml:space="preserve">
-    <value>North America Sales team</value>
+    <value>U.S.A.</value>
   </data>
   <data name="tb_relay_td2.text" xml:space="preserve">
-    <value>Europe Sales team</value>
+    <value>Europa</value>
   </data>
   <data name="tb_relay_td3.text" xml:space="preserve">
-    <value>Asia Sales team</value>
+    <value>Asia</value>
   </data>
   <data name="tb_relay_td4.text" xml:space="preserve">
-    <value>China sales team</value>
+    <value>China</value>
   </data>
   <data name="tb_relay_td5.text" xml:space="preserve">
-    <value>South Korea Sales team</value>
+    <value>Korea</value>
   </data>
   <data name="tb_pur_td1.text" xml:space="preserve">
-    <value>Sourcing team</value>
+    <value>Compras</value>
+  </data>
+  <data name="tb_pur_td1.text" xml:space="preserve">
+    <value>Compras</value>
   </data>
   <data name="tb_td1.text" xml:space="preserve">
-    <value>System Sales</value>
+    <value>Sistema</value>
   </data>
   <data name="tb_td2.text" xml:space="preserve">
-    <value>System Sales</value>
+    <value>Sistema</value>
   </data>
   <data name="tb_td3.text" xml:space="preserve">
     <value>Asia</value>
@@ -196,13 +205,13 @@
     <value>China</value>
   </data>
   <data name="tb_th1.text" xml:space="preserve">
-    <value>Specialty</value>
+    <value>Categoria</value>
   </data>
   <data name="tb_th2.text" xml:space="preserve">
-    <value>Contact</value>
+    <value>Contacto telefónico</value>
   </data>
   <data name="tb_th3.text" xml:space="preserve">
-    <value>E-mail</value>
+    <value>Correo electronico</value>
   </data>
   <data name="vis_txt.text" xml:space="preserve">
     <value>Support</value>

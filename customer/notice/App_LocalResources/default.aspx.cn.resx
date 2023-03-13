@@ -118,42 +118,45 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btn_search_txt.text" xml:space="preserve">
-    <value>Search</value>
+    <value>搜索</value>
   </data>
   <data name="opt1_txt.text" xml:space="preserve">
-    <value>All</value>
+    <value>整体</value>
   </data>
   <data name="opt2_txt.text" xml:space="preserve">
-    <value>Title</value>
+    <value>题目</value>
   </data>
   <data name="opt3_txt.text" xml:space="preserve">
-    <value>Writer</value>
+    <value>制订者</value>
   </data>
   <data name="ph_search_txt.text" xml:space="preserve">
-    <value>Enter the keywords</value>
+    <value>输入关键词</value>
   </data>
   <data name="td_th1_txt.text" xml:space="preserve">
-    <value>No.</value>
+    <value>编码</value>
   </data>
   <data name="td_th2_txt.text" xml:space="preserve">
-    <value>Title</value>
+    <value>题目</value>
   </data>
   <data name="td_th3_txt.text" xml:space="preserve">
-    <value>Writer</value>
+    <value>制订者</value>
   </data>
   <data name="td_th4_txt.text" xml:space="preserve">
-    <value>Date</value>
+    <value>登入日</value>
   </data>
   <data name="tit_cnt.text" xml:space="preserve">
-    <value>TOTAL &lt;em&gt;{{total}}&lt;/em&gt;</value>
+    <value>TOTAL &lt;em&gt;{{total}}&lt;/em&gt;件</value>
   </data>
   <data name="tit_txt.text" xml:space="preserve">
-    <value>Notice</value>
+    <value>公告事项</value>
   </data>
   <data name="txt_no_con.text" xml:space="preserve">
-    <value>There’s no searched result.</value>
+    <value>未搜索到的帖子</value>
+  </data>
+  <data name="txt_page.text" xml:space="preserve">
+    <value>页</value>
   </data>
   <data name="vis_txt.text" xml:space="preserve">
-    <value>Support</value>
+    <value>客服中心</value>
   </data>
 </root>

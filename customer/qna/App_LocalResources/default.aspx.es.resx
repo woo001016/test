@@ -117,92 +117,62 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="con_info.text" xml:space="preserve">
-    <value>Contact Information</value>
+  <data name="btn_file.text" xml:space="preserve">
+    <value>Subir archivos</value>
   </data>
-  <data name="con_pur.text" xml:space="preserve">
-    <value>Purchasing Support</value>
+  <data name="btn_qna.text" xml:space="preserve">
+    <value>Preguntar</value>
   </data>
-  <data name="con_bdu.text" xml:space="preserve">
-    <value>BDU Sales Support</value>
+  <data name="form_txt1.text" xml:space="preserve">
+    <value>&lt;p class="t_desc3"&gt;※ Max. 100 characters&lt;/p&gt;</value>
   </data>
-  <data name="con_relay.text" xml:space="preserve">
-    <value>EV Relay Sales Support</value>
+  <data name="nec_txt.text" xml:space="preserve">
+    <value>*Obligatorio</value>
   </data>
-  <data name="con_tech.text" xml:space="preserve">
-    <value>Technical Support</value>
+  <data name="ph_con.text" xml:space="preserve">
+    <value>Consulta</value>
   </data>
-  <data name="con_tit_pur.text" xml:space="preserve">
-    <value>Purchase &lt;br&gt;Support</value>
+  <data name="ph_tit.text" xml:space="preserve">
+    <value>Título</value>
   </data>
-  <data name="organization.text" xml:space="preserve">
-    <value>&lt;img src="/common/img/en/customer/organization.jpg" alt="organization"&gt;</value>
+  <data name="tit_content.text" xml:space="preserve">
+    <value>Contenido</value>
   </data>
-  <data name="m_organization.text" xml:space="preserve">
-    <value>&lt;img src="/common/img/en/customer/mobile/organization.jpg" alt="organization"&gt;</value>
+  <data name="tit_email.text" xml:space="preserve">
+    <value>Email</value>
   </data>
-  <data name="con_tit_bdu.text" xml:space="preserve">
-    <value>BDU Sales&lt;br&gt;Support</value>
+  <data name="tit_enter.text" xml:space="preserve">
+    <value>Enter Directly</value>
   </data>
-  <data name="con_tit_relay.text" xml:space="preserve">
-    <value>EV Relay Sales&lt;br&gt;Support</value>
+  <data name="tit_file.text" xml:space="preserve">
+    <value>Archivos adjuntos</value>
   </data>
-  <data name="con_tit_tech.text" xml:space="preserve">
-    <value>Technical&lt;br&gt;Support</value>
+  <data name="tit_file_desc.text" xml:space="preserve">
+    <value>※ Solo puede subir las siguientes extenciones JPG/GIF/PNG/ZIP/RAR/ARJ</value>
   </data>
-  <data name="m_tb_td1.text" xml:space="preserve">
-    <value>System Sales</value>
+  <data name="tit_name.text" xml:space="preserve">
+    <value>Nombre Completo</value>
   </data>
-  <data name="m_tb_td2.text" xml:space="preserve">
-    <value>System Sales</value>
+  <data name="tit_phone.text" xml:space="preserve">
+    <value>Teléfono de contacto</value>
   </data>
-  <data name="m_tb_td3.text" xml:space="preserve">
-    <value>Asia</value>
+  <data name="tit_privacy.text" xml:space="preserve">
+    <value>개인정보 수집 및 이용에 대한 안내</value>
   </data>
-  <data name="m_tb_td4.text" xml:space="preserve">
-    <value>China</value>
+  <data name="tit_privacy_con.text" xml:space="preserve">
+    <value>영문내용필요</value>
   </data>
-  <data name="tb_tech_td1.text" xml:space="preserve">
-    <value>Engineering team</value>
+  <data name="tit_privacy_label.text" xml:space="preserve">
+    <value>Politicas de &lt;a href="/en/etc/privacy" target="_blank" class="t_link"&gt;privacidad, terminos y condiciones&lt;/a&gt; &lt;span class="c_red"&gt;(obligatorio)&lt;/span&gt;</value>
   </data>
-  <data name="tb_relay_td1.text" xml:space="preserve">
-    <value>North America Sales team</value>
+  <data name="tit_title.text" xml:space="preserve">
+    <value>Título de la consulta</value>
   </data>
-  <data name="tb_relay_td2.text" xml:space="preserve">
-    <value>Europe Sales team</value>
+  <data name="tit_txt.text" xml:space="preserve">
+    <value>Preguntas en linea</value>
   </data>
-  <data name="tb_relay_td3.text" xml:space="preserve">
-    <value>Asia Sales team</value>
-  </data>
-  <data name="tb_relay_td4.text" xml:space="preserve">
-    <value>China sales team</value>
-  </data>
-  <data name="tb_relay_td5.text" xml:space="preserve">
-    <value>South Korea Sales team</value>
-  </data>
-  <data name="tb_pur_td1.text" xml:space="preserve">
-    <value>Sourcing team</value>
-  </data>
-  <data name="tb_td1.text" xml:space="preserve">
-    <value>System Sales</value>
-  </data>
-  <data name="tb_td2.text" xml:space="preserve">
-    <value>System Sales</value>
-  </data>
-  <data name="tb_td3.text" xml:space="preserve">
-    <value>Asia</value>
-  </data>
-  <data name="tb_td4.text" xml:space="preserve">
-    <value>China</value>
-  </data>
-  <data name="tb_th1.text" xml:space="preserve">
-    <value>Specialty</value>
-  </data>
-  <data name="tb_th2.text" xml:space="preserve">
-    <value>Contact</value>
-  </data>
-  <data name="tb_th3.text" xml:space="preserve">
-    <value>E-mail</value>
+  <data name="tit_type.text" xml:space="preserve">
+    <value>Área correspondiente</value>
   </data>
   <data name="vis_txt.text" xml:space="preserve">
     <value>Support</value>

@@ -118,60 +118,63 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btn_file.text" xml:space="preserve">
-    <value>Find File</value>
+    <value>查找文件</value>
   </data>
   <data name="btn_qna.text" xml:space="preserve">
-    <value>Contact</value>
+    <value>咨询</value>
+  </data>
+  <data name="form_txt1.text" xml:space="preserve">
+    <value />
   </data>
   <data name="nec_txt.text" xml:space="preserve">
-    <value>* indicates required field.</value>
+    <value>* 标示是必须输入项目</value>
   </data>
   <data name="ph_con.text" xml:space="preserve">
-    <value>Please enter your inquiry</value>
+    <value>请输入内容</value>
   </data>
   <data name="ph_tit.text" xml:space="preserve">
-    <value>Please enter the subject (Max. 100 characters)</value>
+    <value>输入题目</value>
   </data>
   <data name="tit_content.text" xml:space="preserve">
-    <value>Contents</value>
+    <value>咨询内容</value>
   </data>
   <data name="tit_email.text" xml:space="preserve">
-    <value>E-mail</value>
+    <value>邮箱地址</value>
   </data>
   <data name="tit_enter.text" xml:space="preserve">
-    <value>Enter Directly</value>
+    <value>直接输入</value>
   </data>
   <data name="tit_file.text" xml:space="preserve">
-    <value>File Upload</value>
+    <value>文件附件</value>
   </data>
   <data name="tit_file_desc.text" xml:space="preserve">
-    <value>※ Only jpg, gif, png, zip, rar arj files can be attached. / Maximum size : 100MB</value>
+    <value>※ 附件形式为 JPG/GIF/PNG 图像和压缩文件 (zip、rar、arj)</value>
   </data>
   <data name="tit_name.text" xml:space="preserve">
-    <value>Name</value>
+    <value>姓名</value>
   </data>
   <data name="tit_phone.text" xml:space="preserve">
-    <value>Phone</value>
+    <value>联系方式</value>
   </data>
   <data name="tit_privacy.text" xml:space="preserve">
-    <value>개인정보 수집 및 이용에 대한 안내</value>
+    <value>同意个人信息处理方针及使用方案</value>
   </data>
   <data name="tit_privacy_con.text" xml:space="preserve">
-    <value>영문내용필요</value>
+    <value>중문내용</value>
   </data>
   <data name="tit_privacy_label.text" xml:space="preserve">
-    <value>I accept the &lt;a href="/en/etc/privacy" target="_blank" class="t_link"&gt;terms and condition&lt;/a&gt; &lt;span class="c_red"&gt;(required)&lt;/span&gt;</value>
+    <value>同意个人信息处理方针及使用方案 &lt;span class="c_red"&gt;(必需)&lt;/span&gt;</value>
   </data>
   <data name="tit_title.text" xml:space="preserve">
-    <value>Title</value>
+    <value>咨询题目</value>
   </data>
   <data name="tit_txt.text" xml:space="preserve">
-    <value>Online Inquiry</value>
+    <value>在线咨询</value>
   </data>
   <data name="tit_type.text" xml:space="preserve">
-    <value>Inquiry Type</value>
+    <value>咨询类型</value>
   </data>
   <data name="vis_txt.text" xml:space="preserve">
-    <value>Support</value>
+    <value>客服中心</value>
   </data>
 </root>

@@ -118,27 +118,30 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btn_list.text" xml:space="preserve">
-    <value>List</value>
+    <value>目录</value>
   </data>
   <data name="date_txt.text" xml:space="preserve">
-    <value>Date</value>
+    <value>登入日</value>
   </data>
   <data name="file_txt.text" xml:space="preserve">
-    <value>Attachment &lt;br&gt;File</value>
+    <value>附件</value>
+  </data>
+  <data name="m_file_txt.text" xml:space="preserve">
+    <value>附件</value>
   </data>
   <data name="next_txt.text" xml:space="preserve">
-    <value>Next</value>
+    <value>下一篇</value>
   </data>
   <data name="prev_txt.text" xml:space="preserve">
-    <value>Prev</value>
+    <value>上一篇</value>
   </data>
   <data name="tit_txt.text" xml:space="preserve">
-    <value>Notice</value>
+    <value>公告事项</value>
   </data>
   <data name="vis_txt.text" xml:space="preserve">
-    <value>Support</value>
+    <value>客服中心</value>
   </data>
   <data name="writer_txt.text" xml:space="preserve">
-    <value>Writer</value>
+    <value>制订者</value>
   </data>
 </root>

@@ -117,92 +117,44 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="con_info.text" xml:space="preserve">
-    <value>Contact Information</value>
+  <data name="btn_search_txt.text" xml:space="preserve">
+    <value>Buscar</value>
   </data>
-  <data name="con_pur.text" xml:space="preserve">
-    <value>Purchasing Support</value>
+  <data name="opt1_txt.text" xml:space="preserve">
+    <value>Todo</value>
   </data>
-  <data name="con_bdu.text" xml:space="preserve">
-    <value>BDU Sales Support</value>
+  <data name="opt2_txt.text" xml:space="preserve">
+    <value>Título</value>
   </data>
-  <data name="con_relay.text" xml:space="preserve">
-    <value>EV Relay Sales Support</value>
+  <data name="opt3_txt.text" xml:space="preserve">
+    <value>Tema</value>
   </data>
-  <data name="con_tech.text" xml:space="preserve">
-    <value>Technical Support</value>
+  <data name="ph_search_txt.text" xml:space="preserve">
+    <value>ej: &#34;palabra&#34;</value>
   </data>
-  <data name="con_tit_pur.text" xml:space="preserve">
-    <value>Purchase &lt;br&gt;Support</value>
+  <data name="td_th1_txt.text" xml:space="preserve">
+    <value>Número</value>
   </data>
-  <data name="organization.text" xml:space="preserve">
-    <value>&lt;img src="/common/img/en/customer/organization.jpg" alt="organization"&gt;</value>
+  <data name="td_th2_txt.text" xml:space="preserve">
+    <value>Título</value>
   </data>
-  <data name="m_organization.text" xml:space="preserve">
-    <value>&lt;img src="/common/img/en/customer/mobile/organization.jpg" alt="organization"&gt;</value>
+  <data name="td_th3_txt.text" xml:space="preserve">
+    <value>Tema</value>
   </data>
-  <data name="con_tit_bdu.text" xml:space="preserve">
-    <value>BDU Sales&lt;br&gt;Support</value>
+  <data name="td_th4_txt.text" xml:space="preserve">
+    <value>Fecha de publicación</value>
   </data>
-  <data name="con_tit_relay.text" xml:space="preserve">
-    <value>EV Relay Sales&lt;br&gt;Support</value>
+  <data name="tit_cnt.text" xml:space="preserve">
+    <value>TOTAL &lt;em&gt;{{total}}&lt;/em&gt;</value>
   </data>
-  <data name="con_tit_tech.text" xml:space="preserve">
-    <value>Technical&lt;br&gt;Support</value>
+  <data name="tit_txt.text" xml:space="preserve">
+    <value>Notice</value>
   </data>
-  <data name="m_tb_td1.text" xml:space="preserve">
-    <value>System Sales</value>
+  <data name="txt_no_con.text" xml:space="preserve">
+    <value>Sin resultados.</value>
   </data>
-  <data name="m_tb_td2.text" xml:space="preserve">
-    <value>System Sales</value>
-  </data>
-  <data name="m_tb_td3.text" xml:space="preserve">
-    <value>Asia</value>
-  </data>
-  <data name="m_tb_td4.text" xml:space="preserve">
-    <value>China</value>
-  </data>
-  <data name="tb_tech_td1.text" xml:space="preserve">
-    <value>Engineering team</value>
-  </data>
-  <data name="tb_relay_td1.text" xml:space="preserve">
-    <value>North America Sales team</value>
-  </data>
-  <data name="tb_relay_td2.text" xml:space="preserve">
-    <value>Europe Sales team</value>
-  </data>
-  <data name="tb_relay_td3.text" xml:space="preserve">
-    <value>Asia Sales team</value>
-  </data>
-  <data name="tb_relay_td4.text" xml:space="preserve">
-    <value>China sales team</value>
-  </data>
-  <data name="tb_relay_td5.text" xml:space="preserve">
-    <value>South Korea Sales team</value>
-  </data>
-  <data name="tb_pur_td1.text" xml:space="preserve">
-    <value>Sourcing team</value>
-  </data>
-  <data name="tb_td1.text" xml:space="preserve">
-    <value>System Sales</value>
-  </data>
-  <data name="tb_td2.text" xml:space="preserve">
-    <value>System Sales</value>
-  </data>
-  <data name="tb_td3.text" xml:space="preserve">
-    <value>Asia</value>
-  </data>
-  <data name="tb_td4.text" xml:space="preserve">
-    <value>China</value>
-  </data>
-  <data name="tb_th1.text" xml:space="preserve">
-    <value>Specialty</value>
-  </data>
-  <data name="tb_th2.text" xml:space="preserve">
-    <value>Contact</value>
-  </data>
-  <data name="tb_th3.text" xml:space="preserve">
-    <value>E-mail</value>
+  <data name="txt_page.text" xml:space="preserve">
+    <value>Página</value>
   </data>
   <data name="vis_txt.text" xml:space="preserve">
     <value>Support</value>

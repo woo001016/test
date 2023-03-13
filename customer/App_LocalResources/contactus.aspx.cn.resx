@@ -118,51 +118,63 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="con_info.text" xml:space="preserve">
-    <value>Contact Information</value>
+    <value>负责人信息</value>
   </data>
   <data name="con_pur.text" xml:space="preserve">
-    <value>Purchase Contact Information</value>
+    <value>采购支持联系人</value>
   </data>
   <data name="con_sales.text" xml:space="preserve">
-    <value>Sales Contact Information</value>
+    <value>营业支援联系人</value>
   </data>
   <data name="con_tech.text" xml:space="preserve">
-    <value>Technical Contact Information</value>
+    <value>技术支持联系人</value>
   </data>
   <data name="con_tit_pur.text" xml:space="preserve">
-    <value>Purchase &lt;br&gt;Contact Information</value>
+    <value>采购支持联系人</value>
   </data>
   <data name="con_tit_sales.text" xml:space="preserve">
-    <value>Sales&lt;br&gt;Contact Information</value>
+    <value>营业支援联系人</value>
   </data>
   <data name="con_tit_tech.text" xml:space="preserve">
-    <value>Technical&lt;br&gt;Contact Information</value>
+    <value>技术支持联系人</value>
+  </data>
+  <data name="m_tb_td1.text" xml:space="preserve">
+    <value>美国</value>
+  </data>
+  <data name="m_tb_td2.text" xml:space="preserve">
+    <value>欧洲</value>
+  </data>
+  <data name="m_tb_td3.text" xml:space="preserve">
+    <value>亚洲</value>
+  </data>
+  <data name="m_tb_td4.text" xml:space="preserve">
+    <value>中国</value>
   </data>
   <data name="tb_pur_td1.text" xml:space="preserve">
-    <value>Purchase</value>
+    <value>采购</value>
   </data>
   <data name="tb_td1.text" xml:space="preserve">
-    <value>U.S</value>
+    <value>美国</value>
   </data>
   <data name="tb_td2.text" xml:space="preserve">
-    <value>Europe</value>
+    <value>欧洲</value>
   </data>
   <data name="tb_td3.text" xml:space="preserve">
-    <value>Asia</value>
+    <value>亚洲</value>
   </data>
   <data name="tb_td4.text" xml:space="preserve">
-    <value>China</value>
+    <value>中国</value>
   </data>
   <data name="tb_th1.text" xml:space="preserve">
-    <value>Specialty</value>
+    <value>分配</value>
   </data>
   <data name="tb_th2.text" xml:space="preserve">
-    <value>Contact</value>
+    <value>电话号码</value>
   </data>
   <data name="tb_th3.text" xml:space="preserve">
-    <value>E-mail</value>
+    <value>邮箱地址</value>
   </data>
   <data name="vis_txt.text" xml:space="preserve">
-    <value>Support</value>
+    <value>客服中心</value>
   </data>
 </root>

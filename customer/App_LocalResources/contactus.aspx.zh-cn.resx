@@ -121,28 +121,40 @@
     <value>负责人信息</value>
   </data>
   <data name="con_pur.text" xml:space="preserve">
-    <value>采购支持联系人</value>
+    <value>采购支援担当联系方式</value>
   </data>
-  <data name="con_sales.text" xml:space="preserve">
-    <value>营业支援联系人</value>
+  <data name="con_bdu.text" xml:space="preserve">
+    <value>BDU支援担当联系方式</value>
+  </data>
+  <data name="con_relay.text" xml:space="preserve">
+    <value>EV Relay支援担当联系方式</value>
   </data>
   <data name="con_tech.text" xml:space="preserve">
-    <value>技术支持联系人</value>
+    <value>技术支援担当联系方式</value>
   </data>
   <data name="con_tit_pur.text" xml:space="preserve">
-    <value>采购支持联系人</value>
+    <value>采购&lt;br&gt;支援担当联系方式</value>
   </data>
-  <data name="con_tit_sales.text" xml:space="preserve">
-    <value>营业支援联系人</value>
+  <data name="organization.text" xml:space="preserve">
+    <value>&lt;img src="/common/img/cn/customer/organization.jpg" alt="负责人信息"&gt;</value>
+  </data>
+  <data name="m_organization.text" xml:space="preserve">
+    <value>&lt;img src="/common/img/cn/customer/mobile/organization.jpg" alt="负责人信息"&gt;</value>
+  </data>
+  <data name="con_tit_bdu.text" xml:space="preserve">
+    <value>BDU&lt;br&gt;支援担当联系方式</value>
+  </data>
+  <data name="con_tit_relay.text" xml:space="preserve">
+    <value>EV Relay&lt;br&gt;支援担当联系方式</value>
   </data>
   <data name="con_tit_tech.text" xml:space="preserve">
-    <value>技术支持联系人</value>
+    <value>技术&lt;br&gt;支援担当联系方式</value>
   </data>
   <data name="m_tb_td1.text" xml:space="preserve">
-    <value>美国</value>
+    <value>System营业</value>
   </data>
   <data name="m_tb_td2.text" xml:space="preserve">
-    <value>欧洲</value>
+    <value>System营业</value>
   </data>
   <data name="m_tb_td3.text" xml:space="preserve">
     <value>亚洲</value>
@@ -150,14 +162,32 @@
   <data name="m_tb_td4.text" xml:space="preserve">
     <value>中国</value>
   </data>
+  <data name="tb_tech_td1.text" xml:space="preserve">
+    <value>技术</value>
+  </data>
+  <data name="tb_relay_td1.text" xml:space="preserve">
+    <value>北美营业</value>
+  </data>
+  <data name="tb_relay_td2.text" xml:space="preserve">
+    <value>欧洲营业</value>
+  </data>
+  <data name="tb_relay_td3.text" xml:space="preserve">
+    <value>亚洲营业</value>
+  </data>
+  <data name="tb_relay_td4.text" xml:space="preserve">
+    <value>中国营业</value>
+  </data>
+  <data name="tb_relay_td5.text" xml:space="preserve">
+    <value>韩国营业</value>
+  </data>
   <data name="tb_pur_td1.text" xml:space="preserve">
     <value>采购</value>
   </data>
   <data name="tb_td1.text" xml:space="preserve">
-    <value>美国</value>
+    <value>System营业</value>
   </data>
   <data name="tb_td2.text" xml:space="preserve">
-    <value>欧洲</value>
+    <value>System营业</value>
   </data>
   <data name="tb_td3.text" xml:space="preserve">
     <value>亚洲</value>

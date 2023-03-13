@@ -121,28 +121,40 @@
     <value>담당자 정보</value>
   </data>
   <data name="con_pur.text" xml:space="preserve">
-    <value>구매 담당자 연락처</value>
+    <value>구매 지원 담당자 연락처</value>
   </data>
-  <data name="con_sales.text" xml:space="preserve">
-    <value>영업 담당자 연락처</value>
+  <data name="con_bdu.text" xml:space="preserve">
+    <value>BDU 지원 담당자 연락처</value>
+  </data>
+  <data name="con_relay.text" xml:space="preserve">
+    <value>EV Relay 지원 담당자 연락처</value>
   </data>
   <data name="con_tech.text" xml:space="preserve">
     <value>기술 지원 담당자 연락처</value>
   </data>
   <data name="con_tit_pur.text" xml:space="preserve">
-    <value>구매&lt;br&gt;담당자 연락처</value>
+    <value>구매 지원&lt;br&gt;담당자 연락처</value>
   </data>
-  <data name="con_tit_sales.text" xml:space="preserve">
-    <value>영업 &lt;br&gt;담당자 연락처</value>
+  <data name="organization.text" xml:space="preserve">
+    <value>&lt;img src="/common/img/ko/customer/organization.jpg" alt="조직도"&gt;</value>
+  </data>
+  <data name="m_organization.text" xml:space="preserve">
+    <value>&lt;img src="/common/img/ko/customer/mobile/organization.jpg" alt="조직도"&gt;</value>
+  </data>
+  <data name="con_tit_bdu.text" xml:space="preserve">
+    <value>BDU 지원 &lt;br&gt;담당자 연락처</value>
+  </data>
+  <data name="con_tit_relay.text" xml:space="preserve">
+    <value>EV Relay 지원&lt;br&gt;담당자 연락처</value>
   </data>
   <data name="con_tit_tech.text" xml:space="preserve">
     <value>기술 지원&lt;br&gt;담당자 연락처</value>
   </data>
   <data name="m_tb_td1.text" xml:space="preserve">
-    <value>미국 &lt;br&gt;영업</value>
+    <value>시스템 &lt;br&gt;영업</value>
   </data>
   <data name="m_tb_td2.text" xml:space="preserve">
-    <value>유럽 &lt;br&gt;영업</value>
+    <value>시스템 &lt;br&gt;영업</value>
   </data>
   <data name="m_tb_td3.text" xml:space="preserve">
     <value>아시아 &lt;br&gt;영업</value>
@@ -150,14 +162,32 @@
   <data name="m_tb_td4.text" xml:space="preserve">
     <value>중국 &lt;br&gt;영업</value>
   </data>
+  <data name="tb_tech_td1.text" xml:space="preserve">
+    <value>기술</value>
+  </data>
+  <data name="tb_relay_td1.text" xml:space="preserve">
+    <value>북미 영업</value>
+  </data>
+  <data name="tb_relay_td2.text" xml:space="preserve">
+    <value>유럽 영업</value>
+  </data>
+  <data name="tb_relay_td3.text" xml:space="preserve">
+    <value>아시아 영업</value>
+  </data>
+  <data name="tb_relay_td4.text" xml:space="preserve">
+    <value>중국 영업</value>
+  </data>
+  <data name="tb_relay_td5.text" xml:space="preserve">
+    <value>한국 영업</value>
+  </data>
   <data name="tb_pur_td1.text" xml:space="preserve">
     <value>구매</value>
   </data>
   <data name="tb_td1.text" xml:space="preserve">
-    <value>미국 영업</value>
+    <value>시스템 영업</value>
   </data>
   <data name="tb_td2.text" xml:space="preserve">
-    <value>유럽 영업</value>
+    <value>시스템 영업</value>
   </data>
   <data name="tb_td3.text" xml:space="preserve">
     <value>아시아 영업</value>

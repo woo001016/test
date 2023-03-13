@@ -117,94 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="con_info.text" xml:space="preserve">
-    <value>Contact Information</value>
+  <data name="btn_list.text" xml:space="preserve">
+    <value>List</value>
   </data>
-  <data name="con_pur.text" xml:space="preserve">
-    <value>Purchasing Support</value>
+  <data name="date_txt.text" xml:space="preserve">
+    <value>Date</value>
   </data>
-  <data name="con_bdu.text" xml:space="preserve">
-    <value>BDU Sales Support</value>
+  <data name="file_txt.text" xml:space="preserve">
+    <value>Attachment &lt;br&gt;File</value>
   </data>
-  <data name="con_relay.text" xml:space="preserve">
-    <value>EV Relay Sales Support</value>
+  <data name="m_file_txt.text" xml:space="preserve">
+    <value>Attachment File</value>
   </data>
-  <data name="con_tech.text" xml:space="preserve">
-    <value>Technical Support</value>
+  <data name="next_txt.text" xml:space="preserve">
+    <value>Next</value>
   </data>
-  <data name="con_tit_pur.text" xml:space="preserve">
-    <value>Purchase &lt;br&gt;Support</value>
+  <data name="prev_txt.text" xml:space="preserve">
+    <value>Prev</value>
   </data>
-  <data name="organization.text" xml:space="preserve">
-    <value>&lt;img src="/common/img/en/customer/organization.jpg" alt="organization"&gt;</value>
-  </data>
-  <data name="m_organization.text" xml:space="preserve">
-    <value>&lt;img src="/common/img/en/customer/mobile/organization.jpg" alt="organization"&gt;</value>
-  </data>
-  <data name="con_tit_bdu.text" xml:space="preserve">
-    <value>BDU Sales&lt;br&gt;Support</value>
-  </data>
-  <data name="con_tit_relay.text" xml:space="preserve">
-    <value>EV Relay Sales&lt;br&gt;Support</value>
-  </data>
-  <data name="con_tit_tech.text" xml:space="preserve">
-    <value>Technical&lt;br&gt;Support</value>
-  </data>
-  <data name="m_tb_td1.text" xml:space="preserve">
-    <value>System Sales</value>
-  </data>
-  <data name="m_tb_td2.text" xml:space="preserve">
-    <value>System Sales</value>
-  </data>
-  <data name="m_tb_td3.text" xml:space="preserve">
-    <value>Asia</value>
-  </data>
-  <data name="m_tb_td4.text" xml:space="preserve">
-    <value>China</value>
-  </data>
-  <data name="tb_tech_td1.text" xml:space="preserve">
-    <value>Engineering team</value>
-  </data>
-  <data name="tb_relay_td1.text" xml:space="preserve">
-    <value>North America Sales team</value>
-  </data>
-  <data name="tb_relay_td2.text" xml:space="preserve">
-    <value>Europe Sales team</value>
-  </data>
-  <data name="tb_relay_td3.text" xml:space="preserve">
-    <value>Asia Sales team</value>
-  </data>
-  <data name="tb_relay_td4.text" xml:space="preserve">
-    <value>China sales team</value>
-  </data>
-  <data name="tb_relay_td5.text" xml:space="preserve">
-    <value>South Korea Sales team</value>
-  </data>
-  <data name="tb_pur_td1.text" xml:space="preserve">
-    <value>Sourcing team</value>
-  </data>
-  <data name="tb_td1.text" xml:space="preserve">
-    <value>System Sales</value>
-  </data>
-  <data name="tb_td2.text" xml:space="preserve">
-    <value>System Sales</value>
-  </data>
-  <data name="tb_td3.text" xml:space="preserve">
-    <value>Asia</value>
-  </data>
-  <data name="tb_td4.text" xml:space="preserve">
-    <value>China</value>
-  </data>
-  <data name="tb_th1.text" xml:space="preserve">
-    <value>Specialty</value>
-  </data>
-  <data name="tb_th2.text" xml:space="preserve">
-    <value>Contact</value>
-  </data>
-  <data name="tb_th3.text" xml:space="preserve">
-    <value>E-mail</value>
+  <data name="tit_txt.text" xml:space="preserve">
+    <value>Notice</value>
   </data>
   <data name="vis_txt.text" xml:space="preserve">
     <value>Support</value>
+  </data>
+  <data name="writer_txt.text" xml:space="preserve">
+    <value>Writer</value>
   </data>
 </root>
