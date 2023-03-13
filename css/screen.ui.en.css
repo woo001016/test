@@ -1,0 +1,95 @@
+@charset "UTF-8";
+
+/****************************** 영문 ******************************/
+
+/* header */
+
+.header_wrapper #gnb {
+  width: 696px;
+}
+
+.header_wrapper #gnb > ul > li {
+  width: 33.33%;
+}
+
+.header_wrapper #gnb .depth1 {
+  font-weight: 700;
+}
+
+/* 전체메뉴 레이어 */
+
+.all_menu_layer .sitemap > ul > li:not(:first-child) {
+  margin-top: 60px;
+}
+
+.all_menu_layer .sitemap .depth2 li {
+  margin-bottom: 30px;
+}
+
+.all_menu_layer .sitemap .depth2 li:not(:last-child) {
+  margin-right: 70px;
+}
+
+/******************** main ********************/
+
+#main .sect_business .wrap_shortcut li:hover {
+  width: 380px;
+}
+
+#main .sect_talent {
+  display: none;
+}
+
+/******************** business ********************/
+
+#business .bdu .design_part .con1 .design_list1 li {
+  padding-top: 42px;
+}
+
+#business .bdu .design_part .con1 .design_list1 li .list_desc {
+  height: auto;
+  margin-top: 15px;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+#business .bdu .design_part .con1 .center_box {
+  margin-left: -230px;
+  width: 460px;
+}
+
+#business .bdu .parts_part .optional {
+  bottom: 35px;
+}
+
+/******************** company  ********************/
+
+#company .philosophy .partnership_part .con2 .inner {
+  float: none;
+}
+
+#company .philosophy .partnership_part .con2 .inner .desc1 {
+  text-align: center;
+}
+
+#company .philosophy .partnership_part .con2 .inner .desc2 {
+  float: right;
+}
+
+#company .place .place_bg {
+  background-image: url(/common/img/en/company/bg_place.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: auto 760px;
+}
+
+/******************** customer  ********************/
+
+#customer .qna .privacy_con {
+  margin-top: 30px;
+}
+
+#customer .qna .privacy_con > *:not(.checkbox_ui) {
+  display: none;
+}
+/*# sourceMappingURL=../../sourcemaps/common/css/screen.ui.en.css.map */

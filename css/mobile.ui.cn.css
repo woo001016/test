@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+/****************************** 중문 ******************************/
+
+.header_wrapper .hd_logo {
+  width: 96px;
+  height: 18px;
+  background-image: url("/common/img/cn/common/mobile/logo2.png");
+}
+
+/* 서브 헤더 */
+
+.subPage .header_wrapper .hd_logo {
+  background-image: url("/common/img/cn/common/mobile/logo1.png");
+}
+
+.all_menu_layer .logo {
+  background-image: url("/common/img/cn/common/mobile/logo1.png");
+  width: 96px;
+  height: 18px;
+}
+
+/******************** footer ********************/
+
+#footer .ft_bottom_wrapper .ft_logo img {
+  width: 132px;
+}
+
+.familysite .btn_family {
+  font-size: 14px;
+}
+
+/******************** main ********************/
+
+#main .sect_footer .ft_bottom_wrapper .ft_logo img {
+  width: 132px;
+}
+
+/******************** business ********************/
+
+#business .ev_relay .info_part .model_list .scroll_message {
+  padding: 92px 0 0;
+}
+
+/******************** company  ********************/
+
+#company .philosophy .tab_ui.type1 {
+  display: none;
+}
+
+#company .place .place_bg {
+  background-image: url(/common/img/cn/company/mobile/bg_place.jpg);
+}
+
+/******************** customer  ********************/
+
+#customer .qna .privacy_con {
+  margin-top: 20px;
+}
+
+#customer .qna .privacy_con > *:not(.checkbox_ui) {
+  display: none;
+}
+/*# sourceMappingURL=../../sourcemaps/common/css/mobile.ui.cn.css.map */
