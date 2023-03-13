@@ -349,6 +349,9 @@
   <data name="tab_info1.text" xml:space="preserve">
     <value>윤리경영</value>
   </data>
+  <data name="tab_info2.text" xml:space="preserve">
+    <value>VISION</value>
+  </data>
   <data name="txt_tit1.text" xml:space="preserve">
     <value>LS e-Mobility Solutions 윤리규범</value>
   </data>

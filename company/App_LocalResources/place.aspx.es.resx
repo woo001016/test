@@ -117,68 +117,62 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="btn_download.text" xml:space="preserve">
-    <value>다운로드</value>
+  <data name="btn1.text" xml:space="preserve">
+    <value>Ver en Google maps</value>
   </data>
-  <data name="info_txt1.text" xml:space="preserve">
-    <value>LS그룹의 전문성, 투명성과 건실함</value>
+  <data name="m_txt_address1.text" xml:space="preserve">
+    <value>
+                                                &lt;li class="li_address"&gt;"LS Tower, 127, LS-ro, Dongan-gu,&lt;br&gt;Anyang-si,Gyeonggi-Do, Korea (14119)"&lt;/li&gt;</value>
   </data>
-  <data name="info_txt2.text" xml:space="preserve">
-    <value>LS의 도전정신과 진취적인 사고</value>
+  <data name="m_txt_address2.text" xml:space="preserve">
+    <value>&lt;li class="li_address"&gt;Nave 1 Cheongju, 95, Baekbong-ro, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do, Korea (28439)&lt;/li&gt;</value>
   </data>
-  <data name="info_txt3.text" xml:space="preserve">
-    <value>화살표 모양은 끊임없이 미래를 향해 전진하는 기업의 강한 의지와 패러다임을 여는 무한 성장기업을 상징하며,&lt;br&gt;
-곡선 Line은 고객을 향한 LS의 마음을 의미합니다.</value>
-  </data>
-  <data name="info_txt4.text" xml:space="preserve">
-    <value>LS e-모빌리티솔루션의 시그니처, 로고타입, 한글 로고타입 국문 및 영문은 각각의 변형 사용을 막기 위하여&lt;br&gt;
-정비례 축소 및 확대하여 사용함을 원칙으로 합니다.</value>
-  </data>
-  <data name="li_tit1.text" xml:space="preserve">
-    <value>메인 컬러</value>
-  </data>
-  <data name="li_tit2.text" xml:space="preserve">
-    <value>서브 컬러</value>
-  </data>
-  <data name="m_info_txt2.text" xml:space="preserve">
-    <value>LS의 도전정신과 진취적인 사고</value>
-  </data>
-  <data name="m_info_txt3.text" xml:space="preserve">
-    <value>화살표 모양은 끊임없이 미래를 향해 전진하는 기업의 강한 의지와 패러다임을 여는 무한 성장기업을 상징하며, 
-                                    곡선 Line은 고객을 향한 LS의 마음을 의미합니다.</value>
-  </data>
-  <data name="m_info_txt4.text" xml:space="preserve">
-    <value>LS e-모빌리티솔루션의 시그니처, 로고타입, 한글 로고타입 국문 및 영문은 각각의 변형 사용을 막기 위하여 
-                                    정비례 축소 및 확대하여 사용함을 원칙으로 합니다.</value>
-  </data>
-  <data name="m_sign_tit1.text" xml:space="preserve">
-    <value>시그니처 (국/영/중문)</value>
-  </data>
-  <data name="m_sign_tit2.text" xml:space="preserve">
-    <value>로고타입 (국/영/중문)</value>
+  <data name="m_txt_address3.text" xml:space="preserve">
+    <value>&lt;li class="li_address"&gt;102-A, National High &amp; New Tech Industrial Development Area, Wuxi, Jiangsu 214028 P.R, China&lt;/li&gt;
+                                                    &lt;li class="li_phone"&gt;+ 86 - 510 - 6851 - 6666&lt;/li&gt;
+                                                    &lt;li class="li_fax"&gt;+ 86 - 510 - 6868 - 0666&lt;/li&gt;</value>
   </data>
   <data name="m_vis_tit.text" xml:space="preserve">
-    <value>LS e-모빌리티솔루션 기업소개</value>
+    <value>Overview</value>
   </data>
-  <data name="side_tit.text" xml:space="preserve">
-    <value>Color System</value>
+  <data name="page_tit.text" xml:space="preserve">
+    <value>Precensia global</value>
   </data>
-  <data name="side_tit2.text" xml:space="preserve">
-    <value>Signature</value>
+  <data name="txt_address1.text" xml:space="preserve">
+    <value>LS Tower, 127, LS-ro, Dongan-gu, Anyang-si,&lt;br&gt;
+Gyeonggi-Do, Korea (14119)</value>
   </data>
-  <data name="sign_tit1.text" xml:space="preserve">
-    <value>시그니처 (국/영/중문)</value>
+  <data name="txt_address2.text" xml:space="preserve">
+    <value>Nave 1 Cheongju, 95, Baekbong-ro, Heungdeok-gu,&lt;br&gt;
+Cheongju-si, Chungcheongbuk-do, Korea (28439)</value>
   </data>
-  <data name="sign_tit2.text" xml:space="preserve">
-    <value>로고타입 (국/영/중문)</value>
+  <data name="txt_address3.text" xml:space="preserve">
+    <value>&lt;li class="li_address"&gt;102-A, National High &amp; New Tech Industrial
+                                                        &lt;br&gt;
+                                                        Development Area, Wuxi, Jiangsu 214028 P.R, China&lt;/li&gt;
+                                                    &lt;li class="li_phone"&gt;+ 86 - 510 - 6851 - 6666&lt;/li&gt;
+                                                    &lt;li class="li_fax"&gt;+ 86 - 510 - 6868 - 0666&lt;/li&gt;</value>
   </data>
-  <data name="sign_tit3.text" xml:space="preserve">
-    <value>한글로고타입 (국문)</value>
+  <data name="txt_name1.text" xml:space="preserve">
+    <value>Torre LS, Anyang</value>
+  </data>
+  <data name="txt_name2.text" xml:space="preserve">
+    <value>Planta industrial, Wuxi, China</value>
+  </data>
+  <data name="txt_name3.text" xml:space="preserve">
+    <value>Casa Matriz, Cheongju&lt;br&gt;
+Headquarter</value>
+  </data>
+  <data name="txt_name4.text" xml:space="preserve">
+    <value>Negocios en Durango, Mexico</value>
+  </data>
+  <data name="txt_name5.text" xml:space="preserve">
+    <value>sucursal Norte America</value>
+  </data>
+  <data name="txt_name6.text" xml:space="preserve">
+    <value>Oficinas de Shanghái</value>
   </data>
   <data name="vis_tit.text" xml:space="preserve">
-    <value>LS e-모빌리티솔루션 기업소개</value>
-  </data>
-  <data name="ci_tit.text" xml:space="preserve">
-    <value>LS Corporate&lt;br&gt;Identity</value>
+    <value>LS e-Mobility Solutions Overview</value>
   </data>
 </root>

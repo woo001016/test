@@ -157,6 +157,15 @@
   <data name="txt_name3.text" xml:space="preserve">
     <value>清州总部</value>
   </data>
+  <data name="txt_name4.text" xml:space="preserve">
+    <value>墨西哥杜兰戈工厂</value>
+  </data>
+  <data name="txt_name5.text" xml:space="preserve">
+    <value>北美分公司</value>
+  </data>
+  <data name="txt_name6.text" xml:space="preserve">
+    <value>上海办公处</value>
+  </data>
   <data name="vis_tit.text" xml:space="preserve">
     <value>LS电动科技 公司介绍</value>
   </data>

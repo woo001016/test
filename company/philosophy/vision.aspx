@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="lspartnership.aspx.cs" Inherits="company_philosophy_lspartnership" MasterPageFile="~/main.Master" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="vision.aspx.cs" Inherits="company_vison" MasterPageFile="~/main.Master" %>
 
 <%@ MasterType VirtualPath="~/main.master" %>
 
@@ -44,7 +44,7 @@
             <div id="company">
 
                 <!----- 서브 컨텐츠 (s) ----->
-                <section class="subpage_wrapper philosophy">
+                <section class="subpage_wrapper philosophy vision">
                     <div class="animElement">
                         <div class="page_tit_area">
                             <h2 class="page_tit"><asp:Literal runat="server" meta:resourcekey="page_tit"/></h2>
@@ -53,37 +53,24 @@
                         <div class="container" id="ph_tab" runat="server">
                             <!-- tab -->
                             <div class="tab_ui type1">
-                                <a href="#" class="tab active"><span>LSpartnership</span></a>
-								<a href="<%:Lang.Href("/company/philosophy/vision") %>" class="tab center"><span><asp:Literal runat="server" meta:resourcekey="tab_txt2"/></span></a>
+                                <a href="<%:Lang.Href("/company/philosophy/lspartnership") %>" class="tab"><span>LSpartnership</span></a>
+								<a href="#" class="tab center active"><span><asp:Literal runat="server" meta:resourcekey="tab_txt2"/></span></a>
                                 <a href="<%:Lang.Href("/company/philosophy/ethics") %>" class="tab"><span><asp:Literal runat="server" meta:resourcekey="tab_txt1"/></span></a>
                             </div>
                             <!--// -->
                         </div>
                     </div>
 
-                    <article class="partnership_part">
-                        <div class="con1 animElement">
-                            <div class="container">
-                                <figure class="img">
-                                    <asp:Literal runat="server" meta:resourcekey="img1"/>
-                                </figure>
-                            </div>
+                    <div class="vision_con animElement">
+                        <div class="container">
+                            <figure class="vision_img">
+                                <asp:Literal runat="server" meta:resourcekey="vision_img"/>
+                            </figure>
                         </div>
-                        <div class="con2 animElement">
-                            <div class="container clear">
-                                <div class="inner">
-                                <p class="desc1">
-                                    <asp:Literal runat="server" meta:resourcekey="info_txt1"/>
-                                </p>
-                                <p class="desc2">
-                                    <asp:Literal runat="server" meta:resourcekey="info_txt2"/>
-                                </p>
-                            </div>
-                            </div>
-                        </div>
-                    </article>
+                    </div>
                 </section>
                 <!----- 서브 컨텐츠 (e) ----->
+
             </div>
         </div>
         <!--// subpage contents -->
@@ -91,50 +78,36 @@
 
     <!--mobile-->
     <asp:PlaceHolder ID="mobile_content" Visible="false" runat="server">
-         <!-- subpage contents -->
+        <!-- subpage contents -->
         <div id="contents" class="subContents">
             <div id="company">
 
                 <!----- 서브 컨텐츠 (s) ----->
-                <section class="subpage_wrapper philosophy">
+                <section class="subpage_wrapper philosophy vision">
                     <div class="animElement">
                         <div class="container">
                             <div class="page_tit_area">
                                 <h2 class="page_tit"><asp:Literal runat="server" meta:resourcekey="page_tit"/></h2>
                             </div>
                             <!-- tab -->
-                            <div class="tab_ui type1 tab3">                                
-                                <a href="#" class="tab active"><span>LSpartnership</span></a>
-								<a href="<%:Lang.Href("/company/philosophy/vision") %>" class="tab center"><span><asp:Literal runat="server" meta:resourcekey="tab_txt2"/></span></a>
-                                <a href="<%:Lang.Href("/company/philosophy/ethics") %>" class="tab"><span><asp:Literal runat="server" meta:resourcekey="tab_txt1"/></span></a>
+                            <div class="tab_ui type1 tab3">
+                                <a href="<%:Lang.Href("/company/philosophy/lspartnership") %>" class="tab"><span>LSpartnership</span></a>
+								<a href="#" class="tab center active"><span><asp:Literal runat="server" meta:resourcekey="tab_txt2"/></span></a>
+								<a href="<%:Lang.Href("/company/philosophy/ethics") %>" class="tab"><span><asp:Literal runat="server" meta:resourcekey="tab_txt1"/></span></a>
                             </div>
                             <!--// --> 
                         </div>
                     </div>
-
-                    <article class="partnership_part">
-                        <div class="con1 animElement">
-                            <div class="container">
-                                <figure class="img">                                    
-                                    <asp:Literal runat="server" meta:resourcekey="m_img1"/>
-                                </figure>
-                            </div>
+                    <div class="vision_con animElement">
+                        <div class="container">
+                            <figure class="vision_img">                                
+                                <asp:Literal runat="server" meta:resourcekey="m_vision_img"/>
+                            </figure>
                         </div>
-                        <div class="con2 animElement">
-                            <div class="container clear">
-                                <div class="inner">
-                                    <p class="desc1">
-                                        <asp:Literal runat="server" meta:resourcekey="m_info_txt1"/>                                        
-                                    </p>
-                                    <p class="desc2">
-                                        <asp:Literal runat="server" meta:resourcekey="m_info_txt2"/>                                        
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
+                    </div>
                 </section>
                 <!----- 서브 컨텐츠 (e) ----->
+
             </div>
         </div>
         <!--// subpage contents -->

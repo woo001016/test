@@ -117,68 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="btn_download.text" xml:space="preserve">
-    <value>다운로드</value>
+  <data name="btn_list.text" xml:space="preserve">
+    <value>List</value>
   </data>
-  <data name="info_txt1.text" xml:space="preserve">
-    <value>LS그룹의 전문성, 투명성과 건실함</value>
+  <data name="file_txt.text" xml:space="preserve">
+    <value>Attachment &lt;br&gt;File</value>
   </data>
-  <data name="info_txt2.text" xml:space="preserve">
-    <value>LS의 도전정신과 진취적인 사고</value>
+  <data name="m_file_txt.text" xml:space="preserve">
+    <value>Attachment File</value>
   </data>
-  <data name="info_txt3.text" xml:space="preserve">
-    <value>화살표 모양은 끊임없이 미래를 향해 전진하는 기업의 강한 의지와 패러다임을 여는 무한 성장기업을 상징하며,&lt;br&gt;
-곡선 Line은 고객을 향한 LS의 마음을 의미합니다.</value>
+  <data name="m_vis_txt.text" xml:space="preserve">
+    <value>Overview</value>
   </data>
-  <data name="info_txt4.text" xml:space="preserve">
-    <value>LS e-모빌리티솔루션의 시그니처, 로고타입, 한글 로고타입 국문 및 영문은 각각의 변형 사용을 막기 위하여&lt;br&gt;
-정비례 축소 및 확대하여 사용함을 원칙으로 합니다.</value>
+  <data name="next_txt.text" xml:space="preserve">
+    <value>Next</value>
   </data>
-  <data name="li_tit1.text" xml:space="preserve">
-    <value>메인 컬러</value>
+  <data name="prev_txt.text" xml:space="preserve">
+    <value>Prev</value>
   </data>
-  <data name="li_tit2.text" xml:space="preserve">
-    <value>서브 컬러</value>
+  <data name="tit_txt.text" xml:space="preserve">
+    <value>News Center</value>
   </data>
-  <data name="m_info_txt2.text" xml:space="preserve">
-    <value>LS의 도전정신과 진취적인 사고</value>
-  </data>
-  <data name="m_info_txt3.text" xml:space="preserve">
-    <value>화살표 모양은 끊임없이 미래를 향해 전진하는 기업의 강한 의지와 패러다임을 여는 무한 성장기업을 상징하며, 
-                                    곡선 Line은 고객을 향한 LS의 마음을 의미합니다.</value>
-  </data>
-  <data name="m_info_txt4.text" xml:space="preserve">
-    <value>LS e-모빌리티솔루션의 시그니처, 로고타입, 한글 로고타입 국문 및 영문은 각각의 변형 사용을 막기 위하여 
-                                    정비례 축소 및 확대하여 사용함을 원칙으로 합니다.</value>
-  </data>
-  <data name="m_sign_tit1.text" xml:space="preserve">
-    <value>시그니처 (국/영/중문)</value>
-  </data>
-  <data name="m_sign_tit2.text" xml:space="preserve">
-    <value>로고타입 (국/영/중문)</value>
-  </data>
-  <data name="m_vis_tit.text" xml:space="preserve">
-    <value>LS e-모빌리티솔루션 기업소개</value>
-  </data>
-  <data name="side_tit.text" xml:space="preserve">
-    <value>Color System</value>
-  </data>
-  <data name="side_tit2.text" xml:space="preserve">
-    <value>Signature</value>
-  </data>
-  <data name="sign_tit1.text" xml:space="preserve">
-    <value>시그니처 (국/영/중문)</value>
-  </data>
-  <data name="sign_tit2.text" xml:space="preserve">
-    <value>로고타입 (국/영/중문)</value>
-  </data>
-  <data name="sign_tit3.text" xml:space="preserve">
-    <value>한글로고타입 (국문)</value>
-  </data>
-  <data name="vis_tit.text" xml:space="preserve">
-    <value>LS e-모빌리티솔루션 기업소개</value>
-  </data>
-  <data name="ci_tit.text" xml:space="preserve">
-    <value>LS Corporate&lt;br&gt;Identity</value>
+  <data name="vis_txt.text" xml:space="preserve">
+    <value>LS e-Mobility Solutions Overview</value>
   </data>
 </root>

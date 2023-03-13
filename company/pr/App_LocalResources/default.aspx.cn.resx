@@ -118,30 +118,36 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btn_search_txt.text" xml:space="preserve">
-    <value>Search</value>
+    <value>搜索</value>
   </data>
   <data name="desc_txt.text" xml:space="preserve">
-    <value>We inform you of the latest news of LS e-Mobility Solutions quickly and accurately.</value>
+    <value>快速准确地传达LS电动科技的最新新闻</value>
+  </data>
+  <data name="m_desc_txt.text" xml:space="preserve">
+    <value>快速准确地传达LS电动科技的最新新闻</value>
+  </data>
+  <data name="m_vis_txt.text" xml:space="preserve">
+    <value>LS电动科技 公司介绍</value>
   </data>
   <data name="opt1_txt.text" xml:space="preserve">
-    <value>All</value>
+    <value>搜索</value>
   </data>
   <data name="opt2_txt.text" xml:space="preserve">
-    <value>Title</value>
+    <value>题目</value>
   </data>
   <data name="opt3_txt.text" xml:space="preserve">
-    <value>Contents</value>
+    <value>内容</value>
   </data>
   <data name="ph_search_txt.text" xml:space="preserve">
-    <value>Enter the keywords</value>
+    <value>输入关键词</value>
   </data>
   <data name="tit_txt.text" xml:space="preserve">
-    <value>News Center</value>
+    <value>宣传</value>
   </data>
   <data name="txt_no_con.text" xml:space="preserve">
-    <value>There’s no searched result.</value>
+    <value>未找到搜索结果</value>
   </data>
   <data name="vis_txt.text" xml:space="preserve">
-    <value>LS e-Mobility Solutions Overview</value>
+    <value>LS电动科技 公司介绍</value>
   </data>
 </root>

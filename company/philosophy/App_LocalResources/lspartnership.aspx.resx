@@ -156,6 +156,9 @@
   <data name="tab_txt1.text" xml:space="preserve">
     <value>윤리경영</value>
   </data>
+  <data name="tab_txt2.text" xml:space="preserve">
+    <value>VISION</value>
+  </data>
   <data name="vis_tit.text" xml:space="preserve">
     <value>LS e-모빌리티솔루션 기업소개</value>
   </data>

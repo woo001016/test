@@ -288,71 +288,73 @@
     <value>General Principles</value>
   </data>
   <data name="acodi_tit2.text" xml:space="preserve">
-    <value>Chapter 1. Responsibilites and Duties toword Customers</value>
+    <value>Capítulo 1: Responsabilidades y obligaciones con el cliente</value>
   </data>
   <data name="acodi_tit3.text" xml:space="preserve">
-    <value>Chapter 2. Fair Competition</value>
+    <value>Capítulo 2: Competencia justa</value>
   </data>
   <data name="acodi_tit4.text" xml:space="preserve">
-    <value>Chapter 3. Fair Transactions</value>
+    <value>Capítulo 3: Transacción justa</value>
   </data>
   <data name="acodi_tit5.text" xml:space="preserve">
-    <value>Chapter 4. Basic Ethics of Officers and Employees</value>
+    <value>Capítulo 4: Éticas del personal</value>
   </data>
   <data name="acodi_tit6.text" xml:space="preserve">
-    <value>Chapter 5. Responsibility toward Officers and Employees</value>
+    <value>Capítulo 5: Responsabilidad con el personal</value>
   </data>
   <data name="acodi_tit7.text" xml:space="preserve">
-    <value>Chapter 6. Responsibility toward Nation and Society</value>
+    <value>Capítulo 6: Responsabilidad con la nación y la sociedad</value>
   </data>
   <data name="btn1.text" xml:space="preserve">
-    <value>Report</value>
+    <value>Denunciar</value>
   </data>
   <data name="info_txt1.text" xml:space="preserve">
-    <value>LS e-Mobility Solutions Co., Ltd. pursues autonomous management based on the principles of autonomy and&lt;br&gt;
-                                responsibility pursuant to the LSpartnership management philosophy and Charter in all its business fields.</value>
+    <value>Con  base en la filosofía LS partnership, promoveremos una gestion autónoma y responsable cooncordante con la filosofía</value>
   </data>
   <data name="m_acodi_tit2.text" xml:space="preserve">
-    <value>&lt;span class="t_chapter"&gt;Chapter 1.&lt;/span&gt;Responsibilites and Duties toword Customers</value>
+    <value>&lt;span class="t_chapter"&gt;Capítulo 1:&lt;/span&gt;Responsabilidades y obligaciones con el cliente</value>
   </data>
   <data name="m_acodi_tit3.text" xml:space="preserve">
-    <value>&lt;span class="t_chapter"&gt;Chapter 2.&lt;/span&gt;Fair Competition</value>
+    <value>&lt;span class="t_chapter"&gt;Capítulo 2:&lt;/span&gt;Competencia justa</value>
   </data>
   <data name="m_acodi_tit4.text" xml:space="preserve">
-    <value>&lt;span class="t_chapter"&gt;Chapter 3.&lt;/span&gt;Fair Transactions</value>
+    <value>&lt;span class="t_chapter"&gt;Capítulo 3:&lt;/span&gt;Transacción justa</value>
   </data>
   <data name="m_acodi_tit5.text" xml:space="preserve">
-    <value>&lt;span class="t_chapter"&gt;Chapter 4.&lt;/span&gt;Basic Ethics of Officers and Employees</value>
+    <value>&lt;span class="t_chapter"&gt;Capítulo 4:&lt;/span&gt;Éticas del personal</value>
   </data>
   <data name="m_acodi_tit6.text" xml:space="preserve">
-    <value>&lt;span class="t_chapter"&gt;Chapter 5.&lt;/span&gt;Responsibility toward Officers and Employees</value>
+    <value>&lt;span class="t_chapter"&gt;Capítulo 5:&lt;/span&gt;Responsabilidad con el personal</value>
   </data>
   <data name="m_acodi_tit7.text" xml:space="preserve">
-    <value>&lt;span class="t_chapter"&gt;Chapter 6.&lt;/span&gt;Responsibility toward Nation and Society</value>
+    <value>&lt;span class="t_chapter"&gt;Capítulo 6:&lt;/span&gt;Responsabilidad con la nación y la sociedad</value>
   </data>
   <data name="m_info_txt1.text" xml:space="preserve">
-    <value>LS e-Mobility Solutions Co., Ltd. pursues autonomous management based on the principles of autonomy and responsibility pursuant to the LSpartnership management philosophy and Charter in all its business fields.</value>
+    <value>Con  base en la filosofía LS partnership, promoveremos una gestion autónoma y responsable cooncordante con la filosofía</value>
   </data>
   <data name="m_txt_tit2.text" xml:space="preserve">
-    <value>Ethics standard and &lt;br&gt;practice guideline</value>
+    <value>Estandards éticos y&lt;br&gt;lineamiento de prácticas</value>
   </data>
   <data name="m_vis_tit.text" xml:space="preserve">
     <value>Overview</value>
   </data>
   <data name="page_tit.text" xml:space="preserve">
-    <value>Business Philosophy</value>
+    <value>Filosofia de negocios</value>
   </data>
   <data name="report_link.text" xml:space="preserve">
-    <value>https://ethics.lsholdings.co.kr/en/view/report.asp?cn=004000</value>
+    <value>https://ethics.lsholdings.co.kr/es/view/report.asp?cn=004000</value>
   </data>
   <data name="tab_info1.text" xml:space="preserve">
-    <value>Ethics Management</value>
+    <value>Gestión ética</value>
+  </data>
+  <data name="tab_info2.text" xml:space="preserve">
+    <value>Visión</value>
   </data>
   <data name="txt_tit1.text" xml:space="preserve">
-    <value>LS e-Mobility Solutions’s Code of Ethics and Conduct</value>
+    <value>CÓDIGO DE ETHICOS Y CONDUTA</value>
   </data>
   <data name="txt_tit2.text" xml:space="preserve">
-    <value>Ethics standard and practice guideline</value>
+    <value>Estandards éticos y lineamiento de prácticas</value>
   </data>
   <data name="vis_tit.text" xml:space="preserve">
     <value>LS e-Mobility Solutions Overview</value>

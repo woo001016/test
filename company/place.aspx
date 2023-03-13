@@ -63,8 +63,8 @@
                                             <div class="detail">
                                                 <ul class="detail_list">
                                                     <li class="li_address"><asp:Literal runat="server" meta:resourcekey="txt_address1"/></li>
-                                                    <!-- <li class="li_phone">031 - 111 - 2222</li>
-                                                    <li class="li_fax">031 - 111 - 2222</li> -->
+                                                    <li class="li_phone">02 - 2034 - 4253</li>
+                                                    <!--<li class="li_fax">031 - 111 - 2222</li>-->
                                                 </ul>
                                                 <a href="https://goo.gl/maps/BGbfNNVbuys7JBrs8" class="btn_typeB2" target="_blank"><span><asp:Literal runat="server" meta:resourcekey="btn1"/></span></a>
                                             </div>
@@ -85,6 +85,21 @@
                                             </div>
                                         </div>
                                     </li>
+									<li class="animElement">
+                                        <figure class="img">
+                                            <img src="/common/img/ko/company/img_place5.jpg" alt="북미 지사(USA Plant)">
+                                        </figure>
+                                        <div class="place_info">
+                                            <p class="name"><asp:Literal runat="server" meta:resourcekey="txt_name5"/></p>
+                                            <div class="detail">
+                                                <ul class="detail_list">
+                                                    <li class="li_address"><asp:Literal runat="server" meta:resourcekey="txt_address5"/></li>
+                                                    <li class="li_phone">+1 - 248 - 764 - 0363</li>
+                                                </ul>
+                                                <a href="https://goo.gl/maps/zh4pg2TJ4m7cLJmP6" class="btn_typeB2" target="_blank"><span><asp:Literal runat="server" meta:resourcekey="btn1"/></span></a>
+                                            </div>
+                                        </div>
+                                    </li>
                                 </ul>
                                 <!-- // -->
 
@@ -99,10 +114,42 @@
                                             <div class="detail">
                                                 <ul class="detail_list">
                                                     <li class="li_address"><asp:Literal runat="server" meta:resourcekey="txt_address2"/></li>
-                                                    <!-- <li class="li_phone">043 - 261 - 6114</li>
-                                                    <li class="li_fax">043 - 261 - 6602</li> -->
+                                                    <li class="li_phone">043 - 261 - 6965</li>
+                                                    <!--<li class="li_fax">043 - 261 - 6602</li> -->
                                                 </ul>
                                                 <a href="https://goo.gl/maps/hp9egQvjfFxRPrsFA" class="btn_typeB2" target="_blank"><span><asp:Literal runat="server" meta:resourcekey="btn1"/></span></a>
+                                            </div>
+                                        </div>
+                                    </li>
+									<li class="animElement">
+                                        <figure class="img">
+                                            <img src="/common/img/ko/company/img_place4.jpg" alt="멕시코 두랑고 사업장(Mexico Durango Plant)">
+                                        </figure>
+                                        <div class="place_info">
+                                            <p class="name"><asp:Literal runat="server" meta:resourcekey="txt_name4"/></p>
+                                            <div class="detail">
+                                                <ul class="detail_list">
+                                                    <li class="li_address"><asp:Literal runat="server" meta:resourcekey="txt_address4"/></li>
+                                                    <li class="li_phone">+52 - 618 - 814 - 18 - 72</li>
+                                                    <!--<li class="li_fax">043 - 261 - 6602</li> -->
+                                                </ul>
+                                                <a href="https://goo.gl/maps/AUbSaQnghCNRzWcD8" class="btn_typeB2" target="_blank"><span><asp:Literal runat="server" meta:resourcekey="btn1"/></span></a>
+                                            </div>
+                                        </div>
+                                    </li>
+									<li class="animElement">
+                                        <figure class="img">
+                                            <img src="/common/img/ko/company/img_place6.jpg" alt="상해 사무실(Shanghai Plant)">
+                                        </figure>
+                                        <div class="place_info">
+                                            <p class="name"><asp:Literal runat="server" meta:resourcekey="txt_name6"/></p>
+                                            <div class="detail">
+                                                <ul class="detail_list">
+                                                    <li class="li_address"><asp:Literal runat="server" meta:resourcekey="txt_address6"/></li>
+                                                    <li class="li_phone">+86 - 21 - 5237 - 9977</li>
+                                                    <li class="li_fax">+86 - 21 - 5237 - 7192</li>
+                                                </ul>
+                                                <a href="https://goo.gl/maps/FKzzQVf849rmdQBf9" class="btn_typeB2" target="_blank"><span><asp:Literal runat="server" meta:resourcekey="btn1"/></span></a>
                                             </div>
                                         </div>
                                     </li>
@@ -177,6 +224,48 @@
                                                     <asp:Literal runat="server" meta:resourcekey="m_txt_address3"/>
                                                 </ul>
                                                 <a href="https://goo.gl/maps/BNuwJjPL6HPXw25m8" class="btn_typeB2" target="_blank"><span><asp:Literal runat="server" meta:resourcekey="btn1"/></span></a>
+                                            </div>
+                                        </div>
+                                    </li>
+									<li class="animElement">
+                                        <figure class="img">
+                                            <img src="/common/img/ko/company/mobile/img_place4.jpg" alt="멕시코 두랑고 사업장">
+                                        </figure>
+                                        <div class="place_info">
+                                            <p class="name"><asp:Literal runat="server" meta:resourcekey="txt_name4"/></p>
+                                            <div class="detail">
+                                                <ul class="detail_list">
+                                                    <asp:Literal runat="server" meta:resourcekey="m_txt_address4"/>
+                                                </ul>
+                                                <a href="https://goo.gl/maps/AUbSaQnghCNRzWcD8" class="btn_typeB2" target="_blank"><span><asp:Literal runat="server" meta:resourcekey="btn1"/></span></a>
+                                            </div>
+                                        </div>
+                                    </li>
+									<li class="animElement">
+                                        <figure class="img">
+                                            <img src="/common/img/ko/company/mobile/img_place5.jpg" alt="북미 지사">
+                                        </figure>
+                                        <div class="place_info">
+                                            <p class="name"><asp:Literal runat="server" meta:resourcekey="txt_name5"/></p>
+                                            <div class="detail">
+                                                <ul class="detail_list">
+                                                    <asp:Literal runat="server" meta:resourcekey="m_txt_address5"/>
+                                                </ul>
+                                                <a href="https://goo.gl/maps/zh4pg2TJ4m7cLJmP6" class="btn_typeB2" target="_blank"><span><asp:Literal runat="server" meta:resourcekey="btn1"/></span></a>
+                                            </div>
+                                        </div>
+                                    </li>
+									<li class="animElement">
+                                        <figure class="img">
+                                            <img src="/common/img/ko/company/mobile/img_place6.jpg" alt="북미 지사">
+                                        </figure>
+                                        <div class="place_info">
+                                            <p class="name"><asp:Literal runat="server" meta:resourcekey="txt_name6"/></p>
+                                            <div class="detail">
+                                                <ul class="detail_list">
+                                                    <asp:Literal runat="server" meta:resourcekey="m_txt_address6"/>
+                                                </ul>
+                                                <a href="https://goo.gl/maps/zh4pg2TJ4m7cLJmP6" class="btn_typeB2" target="_blank"><span><asp:Literal runat="server" meta:resourcekey="btn1"/></span></a>
                                             </div>
                                         </div>
                                     </li>
