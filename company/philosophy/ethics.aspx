@@ -54,6 +54,7 @@
                             <!-- tab -->
                             <div class="tab_ui type1">
                                 <a href="<%:Lang.Href("/company/philosophy/lspartnership") %>" class="tab"><span>LSpartnership</span></a>
+								<a href="<%:Lang.Href("/company/philosophy/vision") %>" class="tab center"><span><asp:Literal runat="server" meta:resourcekey="tab_info2"/></span></a>
                                 <a href="#" class="tab active"><span><asp:Literal runat="server" meta:resourcekey="tab_info1"/></span></a>
                             </div>
                             <!--// -->
@@ -189,9 +190,10 @@
                                     <h2 class="page_tit"><asp:Literal runat="server" meta:resourcekey="page_tit"/></h2>
                                 </div>
                                 <!-- tab -->
-                                <div class="tab_ui type1">
+                                <div class="tab_ui type1 tab3">
                                     <a href="<%:Lang.Href("/company/philosophy/lspartnership") %>" class="tab"><span>LSpartnership</span></a>
-                                <a href="#" class="tab active"><span><asp:Literal runat="server" meta:resourcekey="tab_info1"/></span></a>
+									<a href="<%:Lang.Href("/company/philosophy/vision") %>" class="tab center"><span><asp:Literal runat="server" meta:resourcekey="tab_info2"/></span></a>
+									<a href="#" class="tab active"><span><asp:Literal runat="server" meta:resourcekey="tab_info1"/></span></a>
                                 </div>
                                 <!--// --> 
                             </div>

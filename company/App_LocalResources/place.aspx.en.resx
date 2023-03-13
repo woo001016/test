@@ -163,6 +163,15 @@ Cheongju-si, Chungcheongbuk-do, Korea (28439)</value>
     <value>Cheongju Plant&lt;br&gt;
 Headquarter</value>
   </data>
+  <data name="txt_name4.text" xml:space="preserve">
+    <value>Durango, Mexico Plant</value>
+  </data>
+  <data name="txt_name5.text" xml:space="preserve">
+    <value>Detroit Office</value>
+  </data>
+  <data name="txt_name6.text" xml:space="preserve">
+    <value>Shanghai Office</value>
+  </data>
   <data name="vis_tit.text" xml:space="preserve">
     <value>LS e-Mobility Solutions Overview</value>
   </data>

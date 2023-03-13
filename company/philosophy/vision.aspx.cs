@@ -8,14 +8,11 @@ using System.Data;
 
 using Newtonsoft.Json.Linq;
 
-public partial class company_philosophy_lspartnership : FrontBasePage {
+public partial class company_vison : FrontBasePage {
 
 	protected override void OnBeforePostBack() {
 		base.OnBeforePostBack();
-		/*
-		if (Lang.Current == "cn") { 
-			ph_tab.Visible = false;
-		}
-		*/
+
+    
 	}
 }

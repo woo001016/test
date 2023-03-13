@@ -121,16 +121,38 @@
     <value>구글 지도 보기</value>
   </data>
   <data name="m_txt_address1.text" xml:space="preserve">
-    <value>&lt;li class="li_address"&gt;경기도 안양시 동안구 엘에스로 127 LS타워&lt;br&gt;(우편번호: 14119)&lt;/li&gt;</value>
+    <value>&lt;li class="li_address"&gt;경기도 안양시 동안구 엘에스로 127 LS타워 4층&lt;br&gt;우편번호: 14119&lt;/li&gt;
+		 &lt;li class="li_phone"&gt;02 - 2034 - 4253&lt;/li&gt;
+	</value>
   </data>
   <data name="m_txt_address2.text" xml:space="preserve">
-    <value>&lt;li class="li_address"&gt;충청북도 청주시 흥덕구 백봉로 95&lt;br&gt;(우편번호: 28439)&lt;/li&gt;</value>
+    <value>&lt;li class="li_address"&gt;충청북도 청주시 흥덕구 백봉로 95&lt;br&gt;우편번호: 28439&lt;/li&gt;
+		&lt;li class="li_phone"&gt;043 - 261 - 6965&lt;/li&gt;
+	</value>
   </data>
   <data name="m_txt_address3.text" xml:space="preserve">
     <value>&lt;li class="li_address"&gt;102-A, National High &amp; New Tech Industrial Development Area, Wuxi, Jiangsu 214028 P.R, China&lt;/li&gt;
                                                     &lt;li class="li_phone"&gt;+ 86 - 510 - 6851 - 6666&lt;/li&gt;
                                                     &lt;li class="li_fax"&gt;+ 86 - 510 - 6868 - 0666&lt;/li&gt;</value>
   </data>
+
+  <data name="m_txt_address4.text" xml:space="preserve">
+    <value>&lt;li class="li_address"&gt;LS e-Mobility Solutions, lote 4 oeste sn mnz 4, col. clid, Durango, du, 34304&lt;/li&gt;
+                                                    &lt;li class="li_phone"&gt;+52 - 618 - 814 - 18 - 72&lt;/li&gt;
+    </value>
+  </data>
+  <data name="m_txt_address5.text" xml:space="preserve">
+    <value>&lt;li class="li_address"&gt;5700 Crooks Rd. STE 212, Troy, MI 48098, USA&lt;/li&gt;
+                                                    &lt;li class="li_phone"&gt;+1 - 248 - 764 - 0363&lt;/li&gt;
+    </value>
+  </data>
+  <data name="m_txt_address6.text" xml:space="preserve">
+    <value>&lt;li class="li_address"&gt;Floor 32, No. 3000, North Zhongshan Road, Putuo District, Shanghai 200063 P.R, China&lt;/li&gt;
+                                                    &lt;li class="li_phone"&gt;+86 - 21 - 5237 - 9977&lt;/li&gt;
+													&lt;li class="li_fax"&gt;+86 - 21 - 5237 - 7192&lt;/li&gt;
+    </value>
+  </data>
+
   <data name="m_vis_tit.text" xml:space="preserve">
     <value>LS e-모빌리티솔루션 기업소개</value>
   </data>
@@ -138,7 +160,7 @@
     <value>사업장</value>
   </data>
   <data name="txt_address1.text" xml:space="preserve">
-    <value>경기도 안양시 동안구 엘에스로 127 LS타워&lt;br&gt;
+    <value>경기도 안양시 동안구 엘에스로 127 LS타워 4층&lt;br&gt;
 우편번호: 14119</value>
   </data>
   <data name="txt_address2.text" xml:space="preserve">
@@ -152,6 +174,17 @@
                                                     &lt;li class="li_phone"&gt;+ 86 - 510 - 6851 - 6666&lt;/li&gt;
                                                     &lt;li class="li_fax"&gt;+ 86 - 510 - 6868 - 0666&lt;/li&gt;</value>
   </data>
+  <data name="txt_address4.text" xml:space="preserve">
+    <value>LS e-Mobility Solutions, lote 4 oeste sn mnz 4,&lt;br&gt;
+col. clid, Durango, du, 34304</value>
+  </data>
+  <data name="txt_address5.text" xml:space="preserve">
+    <value>5700 Crooks Rd. STE 212, Troy, MI 48098, USA</value>
+  </data>
+  <data name="txt_address6.text" xml:space="preserve">
+    <value>Floor 32, No. 3000, North Zhongshan Road,&lt;br&gt;
+Putuo District, Shanghai 200063 P.R, China</value>
+  </data>
   <data name="txt_name1.text" xml:space="preserve">
     <value>안양 LS타워</value>
   </data>
@@ -160,6 +193,15 @@
   </data>
   <data name="txt_name3.text" xml:space="preserve">
     <value>청주 사업장(본사)</value>
+  </data>
+  <data name="txt_name4.text" xml:space="preserve">
+    <value>멕시코 두랑고 사업장</value>
+  </data>
+  <data name="txt_name5.text" xml:space="preserve">
+    <value>북미 지사</value>
+  </data>
+  <data name="txt_name6.text" xml:space="preserve">
+    <value>상해 사무실</value>
   </data>
   <data name="vis_tit.text" xml:space="preserve">
     <value>LS e-모빌리티솔루션 기업소개</value>

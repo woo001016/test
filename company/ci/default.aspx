@@ -53,9 +53,7 @@
                     <div class="container">
                         <article class="con1 animElement">
                             <div class="contents_right">
-                                <p class="t_tit1 side_tit">LS Corporate
-                                    <br>
-                                    Identity</p>
+                                <p class="t_tit1 side_tit"><asp:Literal runat="server" meta:resourcekey="ci_tit"/></p>
                                 <div class="con_area">
                                     <div class="clear">
                                         <div class="info info_left">
@@ -345,7 +343,7 @@
 
                     <div class="container">
                         <article class="con1 animElement">
-                            <p class="t_tit1">LS Corporate Identity</p>
+                            <p class="t_tit1"><asp:Literal runat="server" meta:resourcekey="ci_tit"/></p>
                             <div class="con_area">
                                 <div class="clear">
                                     <div class="info">
