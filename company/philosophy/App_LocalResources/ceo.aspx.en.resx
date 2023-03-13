@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ceosign.text" xml:space="preserve">
+    <value>&lt;div class="sign jp"&gt;
+					CEO &amp;amp; Chairman&lt;br /&gt;
+					Ja-Kyun Koo&lt;br /&gt;
+					&lt;img class="img_sign" src="/ko/common/img/jp/page/company/sign.png" alt="sign" /&gt;
+				&lt;/div&gt;</value>
+  </data>
+  <data name="ceo_title.text" xml:space="preserve">
+    <value>CEOによるごあいさつ</value>
+  </data>
+  <data name="m_title1.text" xml:space="preserve">
+    <value>ごあいさつ</value>
+  </data>
+  <data name="txt_con.text" xml:space="preserve">
+    <value>LS ELECTRICは、「品質確保」と「革新」だけをもとに、電力と自動化分野の国内ナンバーワン企業へと成長し、韓国産業の発展をリードしてまいりました。&lt;br /&gt;
+					&lt;br /&gt;
+					「Futuring Smart Enerｇy（スマートエネルギーの未来を作っていきます）」というLS ELECTRICのビジョンにふさわしく、現在安定して維持されている電力、自動化事業において、世界最高の品質と技術力を維持し続ける一方で、電力、自動化技術コンバージェンスの産物であるスマートエネルギー分野においてもグローバル市場をリードできる企業へと成長するために努力しています。&lt;br /&gt;
+					&lt;br /&gt;
+					電力分野では、韓国内の最強配電企業としての地位を確固たるものにしており、中国、中東、東南アジアを中心に世界的なシェアを高めています。自動化分野においても国内ナンバーワンの企業を越え、全工程自動化ソリューションを提供できるグローバルな技術力を確保し、世界市場の攻略に乗り出しています。&lt;br /&gt;
+					&lt;br /&gt;
+					スマートグリッド、マイクログリッド、ESS、太陽光などスマートエネルギー事業も国内を代表する企業としての地位を確立した状態であり、韓国企業としては初めてHVDC市場に進出し、グローバル市場に挑戦しています。&lt;br /&gt;
+					&lt;br /&gt;
+					このような努力の結果、LS ELECTRICはグローバルコンサルティング会社Clarivate Analyticsが選定したグローバル100大革新企業に10年連続で選ばれるという快挙を成し遂げました。&lt;br /&gt;
+					&lt;br /&gt;
+					LS ELECTRICは、今後も最高の品質と優れたR＆D能力を備えた企業、お客様中心のTotal Solutionを提供する企業、グローバルリーディングカンパニーが最も恐れる企業、お客様と共により大きな成果を出す企業へと発展していくことをお約束いたします。&lt;br /&gt;
+					&lt;br /&gt;
+					皆様も、LS ELECTRICが世界と未来の中心にそびえ立てるよう、今後もよい多くのご関心とご声援をお願い致します。</value>
+  </data>
+  <data name="vis_title.text" xml:space="preserve">
+    <value>LS ELECTRICのご紹介</value>
+  </data>
+  <data name="profile.text" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="ceoment.text" xml:space="preserve">
+    <value>&lt;div class="content jp"&gt;
+						&lt;p class="tit"&gt;こんにちは。&lt;/p&gt;
+						&lt;p class="text"&gt;
+							LS ELECTRIC会長のク・ジャギュンです。
+						&lt;/p&gt;
+					&lt;/div&gt;</value>
+  </data>
+  <data name="popup.text" xml:space="preserve">
+    <value>&lt;!-- popup --&gt;
+	&lt;div class="layerpopup type1"&gt;
+		&lt;div class="pop_wrap"&gt;
+			&lt;div class="pop_head"&gt;
+				&lt;div class="pop_tit"&gt;「社名変更のご挨拶」&lt;/div&gt;
+				&lt;button type="button" class="pop_close"&gt;&lt;span&gt;close&lt;/span&gt;&lt;/button&gt;
+			&lt;/div&gt;
+			&lt;div class="pop_body ios_slide_vert"&gt;
+				&lt;!-- &lt;p class="txt1"&gt;&amp;lt;사명을 바꾸며 인사드립니다&amp;gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt; --&gt;
+				&lt;p class="txt2"&gt;
+					新しい名前で、未来に向かって新たな一歩を踏み出した&lt;br /&gt;
+					&lt;img class="txt_logo" src="/ko/common/img/ko/page/company/pop_ceo_logo.png" alt="LS ELECTRIC"&gt;の会長、ク・ジャギュンです。&lt;br /&gt;
+					&lt;br /&gt;
+					世界的な新型コロナウイルスの感染拡大や保護貿易主義など、 &lt;br /&gt;
+					厳しい市場環境に置かれていますが、 &lt;br /&gt;
+					我々は、いつもと同じく&lt;br /&gt;
+					今日の危機を必ず克服して&lt;br /&gt;
+					明日に向かって力強く前進していく所存でございます。 &lt;br /&gt;
+					&lt;br /&gt;
+					今この瞬間も、エネルギー市場は &lt;br /&gt;
+					Digital Transformation, Smart Connectivityを基盤とした &lt;br /&gt;
+					変化と革新の場へと進化しています。&lt;br /&gt;
+					&lt;br /&gt;
+					弊社も、製造技術とICT技術の融合・複合、&lt;br /&gt;
+					Industry 4.0 ソリューション産業、スマート送/配電網技術など&lt;br /&gt;
+					デバイス中心からソリューションプラットフォーム中心へと移行しながら&lt;br /&gt;
+					韓国はもちろん、世界市場をリードする企業へと成長することを目指してまいります。&lt;br /&gt;
+					&lt;br /&gt;
+					これを機に、33年間守ってきた「産電」という名の看板を果敢に下ろし&lt;br /&gt;
+					世界的なスマートエネルギーソリューション企業へと生まれ変わるために &lt;br /&gt;
+					「&lt;img class="txt_logo" src="/ko/common/img/ko/page/company/pop_ceo_logo.png" alt="LS ELECTRIC"&gt;」と社名を変更いたしました。 &lt;br /&gt;
+					以前の社名は、高いブランド価値を有する企業として広く認識されていましたが、&lt;br /&gt;
+					すでに歴史的な役割を果たしたことから、&lt;br /&gt;
+					新たな目標に向かってイメージを一新するために &lt;br /&gt;
+					社名変更という重要な決定を下す運びとなりました。&lt;br /&gt;
+					「&lt;img class="txt_logo" src="/ko/common/img/ko/page/company/pop_ceo_logo.png" alt="LS ELECTRIC"&gt;」に韓国語/英語の社名を統一したのは、&lt;br /&gt;
+					未来のエネルギー技術開発をリードし、グローバル市場を席巻するという固い決意であり、&lt;br /&gt;
+					そのために我々のアイデンティティをより確固たるものにするという強い意志の表れです。&lt;br /&gt;
+					&lt;br /&gt;
+					&lt;img class="txt_logo" src="/ko/common/img/ko/page/company/pop_ceo_logo.png" alt="LS ELECTRIC"&gt;のシンボルキャラクターである「E」は、&lt;br /&gt;
+					ECO、EFFICIENCY、EVOLUTIONを意味します。&lt;br /&gt;
+					&lt;br /&gt;
+					未来のエネルギー技術は、自然にやさしく、&lt;br /&gt;
+					全人類が安全かつ便利に使用することができるものへと進化していくでしょう。&lt;br /&gt;
+					&lt;br /&gt;
+					「現在」は、より効率的で&lt;br /&gt;
+					「未来」は、より革新的でなければなりません。&lt;br /&gt;
+					&lt;br /&gt;
+					私たちは、「&lt;img class="txt_logo" src="/ko/common/img/ko/page/company/pop_ceo_logo.png" alt="LS ELECTRIC"&gt;」という社名をかけて&lt;br /&gt;
+					DTベースのスマートエネルギーソリューションを基盤に&lt;br /&gt;
+					より効率的かつ革新的な企業へと跳躍してまいります。&lt;br /&gt;
+					&lt;br /&gt;
+					人類の未来を切り拓く隊列の先頭に立って&lt;br /&gt;
+					灯をともすグローバル企業へと生まれ変わることをお約束いたします。&lt;br /&gt;
+					何卒、従前にも増してご指導ご鞭撻を賜りますようお願い申し上げます。 &lt;br /&gt;
+					ありがとうございます。&lt;br /&gt;
+					&lt;br /&gt;
+					&lt;br /&gt;
+					&lt;img class="txt_logo" src="/ko/common/img/ko/page/company/pop_ceo_logo.png" alt="LS ELECTRIC"&gt;&lt;br /&gt;
+					代表取締役 CEO&lt;br /&gt;
+					会長  ク・ジャギュン &lt;img class="sign" src="/ko/common/img/ko/page/company/sign2.png" alt="" /&gt;
+					&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+				&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;!-- //popup --&gt;</value>
+  </data>
+</root>
