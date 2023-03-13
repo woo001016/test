@@ -2810,6 +2810,15 @@ input[type=radio] {
   background-color: #E6EAEC;
 }
 
+.tab_ui.type1.tab3 .tab{
+	flex: 1 1 33.33%;
+    max-width: 33.33%;
+}
+
+.tab_ui.type1 .tab.center{
+	border-radius: 30px 30px 0 0;
+}
+
 .tab_ui.type1 .tab.active {
   color: #fff;
   background: #ed174c;
@@ -4553,6 +4562,13 @@ input[type=radio] {
   margin-top: 40px;
 }
 
+#footer .ft_bottom_wrapper .sns{
+	display:flex;
+	justify-content:space-between;
+	margin-top: 40px;
+	max-width: 80%;
+}
+
 /* 패밀리사이트 */
 
 .familysite {
@@ -5207,7 +5223,7 @@ input[type=radio] {
 #business .ci_list li {
   border: 1px solid #e5e5e5;
   margin: 8px 7px 0 0;
-  padding: 16px;
+  padding: 15px;
   height: 112px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -5254,8 +5270,16 @@ input[type=radio] {
   display: inline-block;
 }
 
+#business .ev_relay .info_part .company_list .t_desc1{
+	text-align:center;
+}
+
 #business .ev_relay .info_part .inner {
   margin-top: 100px;
+}
+
+#business .ev_relay .info_part .company_list .inner{
+	margin-top:60px;
 }
 
 #business .ev_relay .info_part .inner .t_tit1 {
@@ -5306,8 +5330,16 @@ input[type=radio] {
   font-style: normal;
 }
 
+#business .ev_relay .info_part .model_list .tbl_type1 .tableSlide{
+	display:none;
+}
+
+#business .ev_relay .info_part .model_list .tbl_type1 .tableSlide#linkA{
+	display:block;
+}
+
 #business .ev_relay .info_part .model_list .tbl_type1 table {
-  min-width: 1215px;
+  min-width: 600px;
   border-top-width: 1px;
 }
 
@@ -5337,6 +5369,61 @@ input[type=radio] {
 
 #business .ev_relay .info_part .model_list .tbl_type1 tbody tr td {
   font-size: 10px;
+}
+
+#business .ev_relay .info_part .model_list .model_page{
+	margin-top: 40px
+}
+
+#business .ev_relay .info_part .model_list .model_page ul{
+	display: flex;
+    justify-content: center;
+}
+
+#business .ev_relay .info_part .model_list .model_page ul li {
+    width: 32px;
+    height: 32px;
+    border: 1px solid #E5E5E5;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#business .ev_relay .info_part .model_list .model_page ul li a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    font-size: 14px;
+    color: #848484;
+    font-weight: 500;
+    text-align: center;
+    line-height: 30px;
+}
+
+#business .ev_relay .info_part .model_list .model_page ul li.num.on a {
+    color: #fff;
+    background-color: #8E979D;
+}
+
+#business .ev_relay .info_part .model_list .model_page ul li.num ~ .num {
+    margin-left: 5px;
+}
+
+#business .ev_relay .info_part .model_list .model_page ul li.prev {
+    margin-right: 20px;
+    background-image: url(/common/img/ko/business/mobile/prev-arr.png);
+}
+
+#business .ev_relay .info_part .model_list .model_page ul li.next {
+    margin-left: 20px;
+    background-image: url(/common/img/ko/business/mobile/next-arr.png);
+}
+
+#business .ev_relay .info_part .model_list .model_page ul li.first {
+    background-image: url(/common/img/ko/business/mobile/first-arr.png);
+}
+
+#business .ev_relay .info_part .model_list .model_page ul li.last {
+    background-image: url(/common/img/ko/business/mobile/last-arr.png);
 }
 
 #business .ev_relay .info_part .download_list .tbl_type1 {
@@ -6654,7 +6741,7 @@ input[type=radio] {
 
 #company .place .place_bg {
   height: 400px;
-  background-image: url("/common/img/ko/company/mobile/bg_place.jpg");
+  background-image: url("/common/img/ko/company/mobile/bg_place_230112.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

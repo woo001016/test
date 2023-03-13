@@ -24,8 +24,12 @@
 
 /******************** company  ********************/
 
-#company .philosophy .tab_ui.type1 {
+#company .philosophy .tab_ui.type1  a:nth-child(3){
   display: none;
+}
+
+#company .philosophy .tab_ui.type1  .center{
+  border-radius: 35px 0;
 }
 
 #company .philosophy .partnership_part .con1 {
