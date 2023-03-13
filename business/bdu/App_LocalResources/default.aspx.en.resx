@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="center_box.text" xml:space="preserve">
-    <value>Costomer Requirement</value>
+    <value>Customer Requirement</value>
   </data>
   <data name="center_txt1.text" xml:space="preserve">
     <value>Customer</value>
@@ -280,5 +280,8 @@
   </data>
   <data name="vis_tit.text" xml:space="preserve">
     <value>EV Relay</value>
+  </data>
+  <data name="btn_download.text" xml:space="preserve">
+    <value>&lt;span&gt;Material&lt;/span&gt;&lt;span&gt;Download&lt;/span&gt;</value>
   </data>
 </root>

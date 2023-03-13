@@ -231,16 +231,16 @@
                             <div class="con_area">
                                 <ul class="ci_list col4">
                                     <li>
-                                        <img class="img" src="/common/img/ko/business/img_ci_hyundai.png" alt="HYUNDAI">
+                                        <img class="img" src="/common/img/ko/business/img_ci_hyundai_230116.png" alt="HYUNDAI">
                                     </li>
                                     <li>
-                                        <img class="img" src="/common/img/ko/business/img_ci_volvo.png" alt="VOLVO">
+                                        <img class="img" src="/common/img/ko/business/img_ci_volvo_230116.png" alt="VOLVO">
                                     </li>
                                     <li>
-                                        <img class="img" src="/common/img/ko/business/img_ci_gm.png" alt="GM">
+                                        <img class="img" src="/common/img/ko/business/img_ci_gm_230116.png" alt="GM">
                                     </li>
                                     <li>
-                                        <img class="img" src="/common/img/ko/business/img_ci_renault.png" alt="RENAULT">
+                                        <img class="img" src="/common/img/ko/business/img_ci_renault_230116.png" alt="RENAULT">
                                     </li>
                                     <li>
                                         <img class="img" src="/common/img/ko/business/img_ci_saic.png" alt="SAIC">
@@ -256,7 +256,7 @@
             <!----- 서브 컨텐츠 (e) ----->
 			<div id="quickDown">
 				<div class="inner">
-					<a href="<%:Lang.Href("/business/ev-relay/info#materialDownload") %>" class="btn_quick"><span>Material</span><span>Download</span></a>
+					<a href="<%:Lang.Href("/business/ev-relay/info#materialDownload") %>" class="btn_quick"><asp:Literal runat="server" meta:resourcekey="btn_download"/></a>
 				</div>
 			</div>
 
@@ -471,16 +471,16 @@
                         <div class="con_area">
                             <ul class="ci_list col2">
                                 <li>
-                                    <img class="img" src="/common/img/ko/business/mobile/img_ci_hyundai.png" alt="HYUNDAI">
+                                    <img class="img" src="/common/img/ko/business/mobile/img_ci_hyundai_230116.png" alt="HYUNDAI">
                                 </li>
                                 <li>
-                                    <img class="img" src="/common/img/ko/business/mobile/img_ci_volvo.png" alt="VOLVO">
+                                    <img class="img" src="/common/img/ko/business/mobile/img_ci_volvo_230116.png" alt="VOLVO">
                                 </li>
                                 <li>
-                                    <img class="img" src="/common/img/ko/business/mobile/img_ci_gm.png" alt="GM">
+                                    <img class="img" src="/common/img/ko/business/mobile/img_ci_gm_230116.png" alt="GM">
                                 </li>
                                 <li>
-                                    <img class="img" src="/common/img/ko/business/mobile/img_ci_renault.png" alt="RENAULT">
+                                    <img class="img" src="/common/img/ko/business/mobile/img_ci_renault_230116.png" alt="RENAULT">
                                 </li>
                                 <li>
                                     <img class="img" src="/common/img/ko/business/mobile/img_ci_saic.png" alt="SAIC">
