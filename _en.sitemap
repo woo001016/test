@@ -15,9 +15,9 @@
 			<siteMapNode url="~/company/ceo" title="CEO Message" resourceKey="company_ceo"/>
 			<siteMapNode url="~/company/philosophy" title="Business Philosophy" resourceKey="company_philosophy">
 				<siteMapNode url="~/company/philosophy/lspartnership" title="LSpartnership" resourceKey="company_philosophy_lspartnership"/>
+				<siteMapNode url="~/company/philosophy/vision" title="VISION" resourceKey="company_vision"/>
 				<siteMapNode url="~/company/philosophy/ethics" title="Ethics Management" resourceKey="company_philosophy_ethics"/>
 			</siteMapNode>
-			<siteMapNode url="~/company/vision" title="VISION" resourceKey="company_vision"/>
 			<siteMapNode url="~/company/ci" title="CI" resourceKey="company_ci"/>
 			<siteMapNode url="~/company/history" title="History" resourceKey="company_history"/>
 			<siteMapNode url="~/company/place" title="Global Network" resourceKey="company_place"/>

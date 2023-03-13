@@ -13,24 +13,38 @@ public partial class MobileTopMaster : System.Web.UI.MasterPage {
 	protected void Page_Load( object sender, EventArgs e ) {
 		if (!IsPostBack) {
 
-			if (Lang.Current == "en") {
+			if (Lang.Current == "en") { //영어
 				css_en.Visible = true;
 				css_cn.Visible = false;
+				css_es.Visible = false;
 				meta_en.Visible = true;
 				meta_ko.Visible = false;
 				meta_cn.Visible = false;
-			} else if (Lang.Current == "cn") {
+				meta_es.Visible = false;
+			} else if (Lang.Current == "cn") { //중국어
 				css_cn.Visible = true;
 				css_en.Visible = false;
+				css_es.Visible = false;
 				meta_en.Visible = false;
 				meta_ko.Visible = false;
 				meta_cn.Visible = true;
-			} else {
+				meta_es.Visible = false;
+			} else if (Lang.Current == "es") { //스페인어
+				css_cn.Visible = false;
+				css_en.Visible = false;
+				css_es.Visible = true;
+				meta_en.Visible = false;
+				meta_ko.Visible = false;
+				meta_cn.Visible = false;
+				meta_es.Visible = true;
+			} else { //한국어
 				css_en.Visible = false;
 				css_cn.Visible = false;
+				css_es.Visible = false;
 				meta_en.Visible = false;
 				meta_ko.Visible = true;
 				meta_cn.Visible = false;
+				meta_es.Visible = false;
 			}
 
 			lb_lang.Text = Lang.Current.ToUpper();

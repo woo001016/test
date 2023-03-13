@@ -1,8 +1,11 @@
-User-agent:*
-Disallow: /@mgt
-Disallow: /ko/@mgt
-Disallow: /en/@mgt
-Disallow: /assets*
-Disallow: /common*
-Disallow: /api*
-Allow: /
+Disallow: /
+
+
+
+
+
+
+
+
+
+

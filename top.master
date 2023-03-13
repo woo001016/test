@@ -27,7 +27,11 @@
         <meta name="keywords" content="LS e-Mobility Solutions, Electric Vehicle Parts, industrial Relays, Electric Vehicle Relay, BDU, PRA">
         <meta name="description" content="Starting April 1st 2022, LS e-Mobility Solutions began anew with the vision of providing innovative Solutions for the global eco-friendly electric vehicle industry">
     </asp:PlaceHolder>
-
+    <asp:PlaceHolder runat="server" ID="meta_es" Visible="false">
+	<meta name="keywords" content="LS e-Mobility Solutions, Electric Vehicle Parts, industrial Relays, Electric Vehicle Relay, BDU, PRA">
+    <meta name="description" content="Starting April 1st 2022, LS e-Mobility Solutions began anew with the vision of providing innovative Solutions for the global eco-friendly electric vehicle industry">
+    </asp:PlaceHolder>
+	
     <meta property="og:type" content="website"> 
     <meta property="og:title" content="LS e-Mobility Solutions">
     <meta property="og:description" content="Future Solutions Now">
@@ -72,6 +76,9 @@
     </asp:PlaceHolder>
     <asp:PlaceHolder runat="server" ID="css_cn" Visible="false">
         <link href="/common/css/screen.ui.cn.css" rel="stylesheet" type="text/css" media="screen,print">
+    </asp:PlaceHolder>
+    <asp:PlaceHolder runat="server" ID="css_es" Visible="false">
+        <link href="/common/css/screen.ui.es.css" rel="stylesheet" type="text/css" media="screen,print">
     </asp:PlaceHolder>
     
     <script type="text/javascript" src="/common/js/swiper.min.js"></script>
@@ -150,6 +157,7 @@
                         <a href="#" data-act="lang" data-val="ko">KO</a>
                         <a href="#" data-act="lang" data-val="en">EN</a>
                         <a href="#" data-act="lang" data-val="cn">CN</a>
+						<a href="#" data-act="lang" data-val="es">ES</a>
                     </div>
                 </div>
                 <!--// -->
@@ -282,6 +290,17 @@
         <div class="ft_bottom_wrapper">
             <div class="container">
                 <div class="ft_info clear">
+		    <ul class="sns">
+			<li>
+			    <a href="https://bit.ly/3VXjIx6" target="_blank"><asp:Literal runat="server" meta:resourcekey="foot_sns1"/></a>
+			</li>
+			<li>
+			    <a href="https://bit.ly/3UXqn9h" target="_blank"><asp:Literal runat="server" meta:resourcekey="foot_sns2"/></a>
+			</li>
+			<li>
+			    <a href="https://twitter.com/LS_eMS" target="_blank"><asp:Literal runat="server" meta:resourcekey="foot_sns3"/></a>
+			</li>
+		    </ul>
                     <div>
                         <p>LS e-Mobility Solutions</p>
                         <p><asp:Literal runat="server" meta:resourcekey="txt_ceo"/></p>

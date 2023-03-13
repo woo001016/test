@@ -15,8 +15,8 @@
 			<siteMapNode url="~/company/ceo" title="CEO 致辞" resourceKey="company_ceo"/>
 			<siteMapNode url="~/company/philosophy" title="经营理念" resourceKey="company_philosophy">
 				<siteMapNode url="~/company/philosophy/lspartnership" title="LSpartnership" resourceKey="company_philosophy_lspartnership"/>
+				<siteMapNode url="~/company/philosophy/vision" title="VISION" resourceKey="company_vision"/>
 			</siteMapNode>
-			<siteMapNode url="~/company/vision" title="VISION" resourceKey="company_vision"/>
 			<siteMapNode url="~/company/ci" title="CI" resourceKey="company_ci"/>
 			<siteMapNode url="~/company/history" title="公司沿革" resourceKey="company_history"/>
 			<siteMapNode url="~/company/place" title="事业布局" resourceKey="company_place"/>

@@ -51,7 +51,7 @@
                                             </div>
                                         </li>
                                         <li>
-                                            <a class="icon" href="#"><span>BDU</span></a>
+                                            <a class="icon" href="#"><span><asp:Literal runat="server" meta:resourcekey="bdu"/></span></a>
                                             <div class="depth">
                                                 <a href="<%:Lang.Href("/business/bdu") %>"><asp:Literal runat="server" meta:resourcekey="biz_depth_txt1"/></a>
                                             </div>
@@ -151,7 +151,7 @@
                 <!----- 메인 컨텐츠 (e) ----->
 				<div id="quickDown">
 					<div class="inner">
-						<a href="<%:Lang.Href("/business/ev-relay/info#materialDownload") %>" class="btn_quick"><span>Material</span><span>Download</span></a>
+						<a href="<%:Lang.Href("/business/ev-relay/info#materialDownload") %>" class="btn_quick"><asp:Literal runat="server" meta:resourcekey="btn_download"/></a>
 					</div>
 				</div>
             </div>
@@ -185,7 +185,7 @@
                                             </div>
                                         </li>
                                         <li>
-                                            <a class="icon" href="#"><span>BDU</span></a>
+                                            <a class="icon" href="#"><span><asp:Literal runat="server" meta:resourcekey="bdu"/></span></a>
                                             <div class="depth">
                                                 <a href="<%:Lang.Href("/business/bdu") %>"><asp:Literal runat="server" meta:resourcekey="biz_depth_txt1"/></a>
                                                 <button type="button" class="depth_close"><span class="sr_only">close</span></button>
