@@ -117,15 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="btn_download.text" xml:space="preserve">
+    <value>&lt;span&gt;资料 下载&lt;/span&gt;</value>
+  </data>
+  <data name="img_logo1.text" xml:space="preserve">
+    <value>&lt;img src="/common/img/cn/common/logo1.png" alt="LS e-Mobility Solutions"&gt;&lt;/a&gt;</value>
+  </data>
+  <data name="img_logo3.text" xml:space="preserve">
+    <value>&lt;img src="/common/img/cn/common/logo3.png" alt="LS e-Mobility Solutions"&gt;</value>
+  </data>
   <data name="txt_addr.text" xml:space="preserve">
-    <value>Chengju 1 Factory, 95, Baekbong-ro, Heungdeok-gu,&lt;br&gt;
-Cheongju-si, Chungcheongbuk-do, Korea (28439)</value>
+    <value>韩国忠清北道清州市兴德区白峰路95</value>
   </data>
   <data name="txt_ceo.text" xml:space="preserve">
-    <value>CEO Won-Yil Kim</value>
+    <value>代表  金元日</value>
   </data>
   <data name="txt_f_1.text" xml:space="preserve">
-    <value>LS Group</value>
+    <value>LS集团</value>
   </data>
   <data name="txt_f_10.text" xml:space="preserve">
     <value>LS I&amp;D</value>
@@ -134,19 +142,19 @@ Cheongju-si, Chungcheongbuk-do, Korea (28439)</value>
     <value>LS Networks</value>
   </data>
   <data name="txt_f_12.text" xml:space="preserve">
-    <value>Gaon Cable</value>
+    <value>GAON</value>
   </data>
   <data name="txt_f_2.text" xml:space="preserve">
     <value>LS ELECTRIC</value>
   </data>
   <data name="txt_f_3.text" xml:space="preserve">
-    <value>LS Cable &amp; System</value>
+    <value>LS电缆</value>
   </data>
   <data name="txt_f_4.text" xml:space="preserve">
-    <value>LS-Nikko Copper</value>
+    <value>LS-Nikko 铜制炼</value>
   </data>
   <data name="txt_f_5.text" xml:space="preserve">
-    <value>LS Mtron</value>
+    <value>LS电子科技</value>
   </data>
   <data name="txt_f_6.text" xml:space="preserve">
     <value>E1</value>
@@ -161,48 +169,48 @@ Cheongju-si, Chungcheongbuk-do, Korea (28439)</value>
     <value>LS Metal</value>
   </data>
   <data name="txt_href1.text" xml:space="preserve">
-    <value>https://www.lsholdings.com/en</value>
+    <value>https://www.lsholdings.com/ko</value>
   </data>
   <data name="txt_href10.text" xml:space="preserve">
-    <value>http://www.ls-ind.co.kr/en/index.asp</value>
+    <value>http://www.ls-ind.co.kr</value>
   </data>
   <data name="txt_href11.text" xml:space="preserve">
-    <value>https://www.lsnetworks.com/eng/</value>
+    <value>ttps://www.lsnetworks.com</value>
   </data>
   <data name="txt_href12.text" xml:space="preserve">
-    <value>https://www.gaoncable.com/</value>
+    <value>https://www.gaoncable.com</value>
   </data>
   <data name="txt_href2.text" xml:space="preserve">
-    <value>https://www.ls-electric.com/</value>
+    <value>http://lselectric.com.cn</value>
   </data>
   <data name="txt_href3.text" xml:space="preserve">
-    <value>https://www.lscns.com/en/main.asp</value>
+    <value>https://www.lscns.com/cn/main.asp</value>
   </data>
   <data name="txt_href4.text" xml:space="preserve">
-    <value>http://www.lsnikko.com/english/</value>
+    <value>http://www.lsnikko.cn/chinese/index.aspx</value>
   </data>
   <data name="txt_href5.text" xml:space="preserve">
-    <value>http://www.lsmtron.com/page/lsmtronMain.asp</value>
+    <value>http://www.lsmtronchina.com/page/productMain.asp</value>
   </data>
   <data name="txt_href6.text" xml:space="preserve">
-    <value>https://www.e1.co.kr/eng/main.aspx</value>
+    <value>https://www.e1.co.kr/main.aspx</value>
   </data>
   <data name="txt_href7.text" xml:space="preserve">
-    <value>https://www.lsyesco.com/</value>
+    <value>https://www.lsyesco.com</value>
   </data>
   <data name="txt_href8.text" xml:space="preserve">
-    <value>http://lsglobalinc.com/</value>
+    <value>http://lsglobalinc.com</value>
   </data>
   <data name="txt_href9.text" xml:space="preserve">
-    <value>https://www.lsmetal.biz/en/main/</value>
+    <value>https://www.lsmetal.biz/ko/main/index.asp</value>
   </data>
   <data name="txt_privacy.text" xml:space="preserve">
-    <value>Privacy Policy</value>
+    <value>隐私政策</value>
   </data>
   <data name="txt_registration.text" xml:space="preserve">
-    <value>Business Registraion Nunber 584-87-02619</value>
+    <value>营业执照注册号  584-87-02619</value>
   </data>
   <data name="txt_sitemap.text" xml:space="preserve">
-    <value>Sitemap</value>
+    <value>网站导览</value>
   </data>
 </root>

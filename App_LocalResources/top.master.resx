@@ -126,6 +126,15 @@
   <data name="img_logo3.text" xml:space="preserve">
     <value>&lt;img src="/common/img/ko/common/logo3.png" alt="LS e-Mobility Solutions"&gt;</value>
   </data>
+  <data name="foot_sns1.text" xml:space="preserve">
+    <value>&lt;img src="/common/img/ko/common/footer-facebook.png" alt="facebook"&gt;</value>
+  </data>
+  <data name="foot_sns2.text" xml:space="preserve">
+    <value>&lt;img src="/common/img/ko/common/footer-insta.png" alt="insta"&gt;</value>
+  </data>
+  <data name="foot_sns3.text" xml:space="preserve">
+    <value>&lt;img src="/common/img/ko/common/footer-twitter.png" alt="twitter"&gt;</value>
+  </data>
   <data name="txt_addr.text" xml:space="preserve">
     <value>청주사업장 본사  충청북도 청주시 흥덕구 백봉로 95</value>
   </data>

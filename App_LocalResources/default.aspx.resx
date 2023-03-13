@@ -267,4 +267,10 @@
   <data name="txt_sitemap.text" xml:space="preserve">
     <value>사이트맵</value>
   </data>
+  <data name="bdu.text" xml:space="preserve">
+    <value>BDU</value>
+  </data>
+  <data name="btn_download.text" xml:space="preserve">
+    <value>&lt;span&gt;Material&lt;/span&gt;&lt;span&gt;Download&lt;/span&gt;</value>
+  </data>
 </root>

@@ -118,95 +118,95 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="about_ic_txt1.text" xml:space="preserve">
-    <value>CEO 致辞</value>
+    <value>Nuestro CEO</value>
   </data>
   <data name="about_ic_txt2.text" xml:space="preserve">
-    <value>经营理念</value>
+    <value>Filosofía</value>
   </data>
   <data name="about_ic_txt3.text" xml:space="preserve">
-    <value>VISION</value>
+    <value>Visión</value>
   </data>
   <data name="about_ic_txt4.text" xml:space="preserve">
-    <value>CI</value>
+    <value>Identidad&lt;br&gt;Coorporativa</value>
   </data>
   <data name="about_ic_txt5.text" xml:space="preserve">
-    <value>公司沿革</value>
+    <value>Historia</value>
   </data>
   <data name="about_ic_txt6.text" xml:space="preserve">
-    <value>事业布局</value>
+    <value>En donde estamos</value>
   </data>
   <data name="about_ic_txt7.text" xml:space="preserve">
-    <value>宣传</value>
+    <value>Anuncios</value>
   </data>
   <data name="biz_depth_txt1.text" xml:space="preserve">
-    <value>产品信息</value>
+    <value>Informacion del producto</value>
   </data>
   <data name="biz_depth_txt2.text" xml:space="preserve">
-    <value>应用领域</value>
+    <value>Aplicaciones</value>
   </data>
   <data name="business_b_txt.text" xml:space="preserve">
-    <value>&lt;span&gt;LS电动科技&amp;nbsp;&lt;/span&gt;&lt;br&gt;
-                                    &lt;span&gt;引领未来创造更好的世界&lt;/span&gt;</value>
+    <value>&lt;span&gt;LS&amp;nbsp;&lt;/span&gt;&lt;span&gt;e-Mobility&amp;nbsp;&lt;/span&gt;&lt;span&gt;Solutions&lt;/span&gt;&lt;br&gt;
+                                    &lt;span&gt;Creando&amp;nbsp;&lt;/span&gt;&lt;span&gt;un&amp;nbsp;&lt;/span&gt;&lt;span&gt;mundo&amp;nbsp;&lt;/span&gt;&lt;span&gt;mejor&amp;nbsp;&lt;/span&gt;&lt;span&gt;liderando&amp;nbsp;&lt;/span&gt;&lt;span&gt;el&amp;nbsp;&lt;/span&gt;&lt;span&gt;futuro&lt;/span&gt;</value>
   </data>
   <data name="company_b_txt.text" xml:space="preserve">
-    <value>&lt;span&gt;以引领世界的优秀品质和研究开发,&amp;nbsp;&lt;/span&gt;&lt;br&gt;
-                                    &lt;span&gt;跃升为全球第一企业&lt;/span&gt;</value>
+    <value>&lt;span&gt;Seremos&amp;nbsp;&lt;/span&gt;&lt;span&gt;la&amp;nbsp;&lt;/span&gt;&lt;span&gt;empresa&amp;nbsp;&lt;/span&gt;&lt;span&gt;lider&amp;nbsp;&lt;/span&gt;&lt;span&gt;globalmente&amp;nbsp;&lt;/span&gt;&lt;span&gt;mediente&amp;nbsp;&lt;/span&gt;&lt;span&gt;desarrollo&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;e&lt;/span&gt;
+                                    &lt;span&gt;investigacion&amp;nbsp;&lt;/span&gt;&lt;span&gt;de&amp;nbsp;&lt;/span&gt;&lt;span&gt;calidad&amp;nbsp;&lt;/span&gt;&lt;span&gt;</value>
   </data>
   <data name="cs_ic_txt1.text" xml:space="preserve">
-    <value>负责人信息</value>
+    <value>Contactos&lt;br&gt;importantes</value>
   </data>
   <data name="cs_ic_txt2.text" xml:space="preserve">
-    <value>在线咨询</value>
+    <value>Preguntas en línea</value>
   </data>
   <data name="cs_ic_txt3.text" xml:space="preserve">
-    <value>公告事项</value>
+    <value>Avisos &#38; Anuncios</value>
   </data>
   <data name="customer_b_txt.text" xml:space="preserve">
-    <value>&lt;span&gt;LS电动科技&amp;nbsp;&lt;/span&gt;&lt;br&gt;
-                                    &lt;span&gt;始于珍惜顾客的意见&lt;/span&gt;</value>
+    <value>&lt;span&gt;LS&amp;nbsp;&lt;/span&gt;&lt;span&gt;e-Mobility&amp;nbsp;&lt;/span&gt;&lt;span&gt;Solutions&amp;nbsp;&lt;/span&gt;&lt;span&gt;nace&lt;/span&gt;&lt;br&gt;
+                                    &lt;span&gt;del&amp;nbsp;&lt;/span&gt;&lt;span&gt;corazón&amp;nbsp;&lt;/span&gt;&lt;span&gt;que&amp;nbsp;&lt;/span&gt;&lt;span&gt;valora&amp;nbsp;&lt;/span&gt;&lt;span&gt;las&amp;nbsp;&lt;/span&gt;&lt;span&gt;opiniones&amp;nbsp;&lt;/span&gt;&lt;span&gt;del&amp;nbsp;&lt;/span&gt;&lt;span&gt;cliente&lt;/span&gt;</value>
   </data>
   <data name="familysite.text" xml:space="preserve">
-    <value>&lt;li&gt;&lt;a href="https://www.lsholdings.com/ko" target="_blank"&gt;LS集团&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://lselectric.com.cn" target="_blank"&gt;LS ELECTRIC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lscns.com/cn/main.asp" target="_blank"&gt;LS电缆&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.lsnikko.cn/chinese/index.aspx" target="_blank"&gt;LS-Nikko 铜制炼&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.lsmtronchina.com/page/productMain.asp" target="_blank"&gt;LS电子科技&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.e1.co.kr/main.aspx" target="_blank"&gt;E1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lsyesco.com" target="_blank"&gt;YESCO&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://lsglobalinc.com" target="_blank"&gt;LS Global&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.lsmetal.biz/ko/main/index.asp" target="_blank"&gt;LS Metal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.ls-ind.co.kr" target="_blank"&gt;LS I&amp;amp;D&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="ttps://www.lsnetworks.com" target="_blank"&gt;LS Networks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.gaoncable.com" target="_blank"&gt;GAON&lt;/a&gt;&lt;/li&gt;</value>
+    <value>&lt;li&gt;&lt;a href="https://www.lsholdings.com/en" target="_blank"&gt;Grupo LS&lt;/a&gt;&lt;/li&gt;
+                                                &lt;li&gt;&lt;a href="https://www.ls-electric.com/" target="_blank"&gt;LS ELECTRIC&lt;/a&gt;&lt;/li&gt;
+                                                &lt;li&gt;&lt;a href="https://www.lscns.com/en/main.asp" target="_blank"&gt;LS Cable &amp; System&lt;/a&gt;&lt;/li&gt;
+                                                &lt;li&gt;&lt;a href="http://www.lsnikko.com/english" target="_blank"&gt;LS-Nikko Copper&lt;/a&gt;&lt;/li&gt;
+                                                &lt;li&gt;&lt;a href="http://www.lsmtron.com/page/lsmtronMain.asp" target="_blank"&gt;LS Mtron&lt;/a&gt;&lt;/li&gt;
+                                                &lt;li&gt;&lt;a href="https://www.e1.co.kr/eng/main.aspx" target="_blank"&gt;E1&lt;/a&gt;&lt;/li&gt;
+                                                &lt;li&gt;&lt;a href="https://www.lsyesco.com/" target="_blank"&gt;YESCO&lt;/a&gt;&lt;/li&gt;
+                                                &lt;li&gt;&lt;a href="http://lsglobalinc.com/" target="_blank"&gt;LS Global&lt;/a&gt;&lt;/li&gt;
+                                                &lt;li&gt;&lt;a href="https://www.lsmetal.biz/ko/main/index.asp" target="_blank"&gt;LS Metal&lt;/a&gt;&lt;/li&gt;
+                                                &lt;li&gt;&lt;a href="http://www.ls-ind.co.kr/en/index.asp" target="_blank"&gt;LS I&amp;D&lt;/a&gt;&lt;/li&gt;
+                                                &lt;li&gt;&lt;a href="https://www.lsnetworks.com/eng/" target="_blank"&gt;LS Networks&lt;/a&gt;&lt;/li&gt;
+                                                &lt;li&gt;&lt;a href="https://www.gaoncable.com/" target="_blank"&gt;Gaon Cable&lt;/a&gt;&lt;/li&gt;</value>
   </data>
   <data name="ft_info.text" xml:space="preserve">
     <value>&lt;div&gt;
-                                            &lt;p&gt;代表 金元日&lt;/p&gt;
-                                            &lt;p&gt;营业执照注册号&amp;nbsp;&amp;nbsp;584-87-02619&lt;/p&gt;
+                                            &lt;p&gt;CEO  Won-Il Kim&lt;/p&gt;
+                                            &lt;p&gt;Registro Federal de Contribuyentes&lt;br&gt;584-87-02619&lt;/p&gt;
                                         &lt;/div&gt;
                                         &lt;div&gt;
-                                            &lt;p&gt;清州总部 &lt;br&gt;韩国忠清北道清州市兴德区白峰路95&lt;/p&gt;
+                                            &lt;p&gt;Chengju 1 Factory, 95, Baekbong-ro, Heungdeok-gu, &lt;br&gt;Cheongju-si, Chungcheongbuk-do, Korea (28439)&lt;/p&gt;
                                         &lt;/div&gt;</value>
   </data>
   <data name="img_logo.text" xml:space="preserve">
-    <value>&lt;img src="/common/img/cn/common/logo4.png" alt="LS e-Mobility Solutions"&gt;</value>
+    <value>&lt;img src="/common/img/ko/common/logo4.png" alt="LS e-Mobility Solutions"&gt;</value>
   </data>
   <data name="m_business_b_txt.text" xml:space="preserve">
-    <value>&lt;p class="b_txt"&gt;LS电动科技&lt;br&gt;引领未来创造更好的世界&lt;/p&gt;</value>
+    <value>&lt;p class="b_txt"&gt;LS e-Mobility Solutions &lt;br&gt;Creando un mundo&lt;br&gt;mejor liderando el futuro&lt;/p&gt;</value>
   </data>
   <data name="m_company_b_txt.text" xml:space="preserve">
-    <value>&lt;p class="b_txt"&gt;以引领世界的优秀品质和&lt;br&gt;研究开发,&lt;br&gt;跃升为全球第一企业&lt;/p&gt;</value>
+    <value>&lt;p class="b_txt"&gt;Seremos la empresa lider&lt;br&gt;globalmente mediente desarrollo e&lt;br&gt;investigacion de calidad&lt;/p&gt;</value>
   </data>
   <data name="m_customer_b_txt.text" xml:space="preserve">
-    <value>&lt;p class="b_txt"&gt;LS电动科技&lt;br&gt;始于珍惜顾客的意见&lt;/p&gt;</value>
+    <value>&lt;p class="b_txt"&gt;LS e-Mobility Solutions nace&lt;br&gt;del corazón que valora&lt;br&gt;las opiniones del cliente&lt;/p&gt;</value>
   </data>
   <data name="m_ft_info.text" xml:space="preserve">
-    <value>&lt;p&gt;代表 金元日&lt;/p&gt;
-                                        &lt;p&gt;营业执照注册号  584-87-02619&lt;/p&gt;
-                                        &lt;p&gt;韩国忠清北道清州市兴德区白峰路95&lt;/p&gt;</value>
+    <value>&lt;p&gt;CEO  Won-Il Kim&lt;/p&gt;
+                                        &lt;p&gt;Registro Federal de Contribuyentes&lt;br&gt;584-87-02619&lt;/p&gt;
+                                        &lt;p&gt;Chengju 1 Factory, 95, Baekbong-ro, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do, Korea (28439) &lt;/p&gt;</value>
   </data>
   <data name="m_img_logo.text" xml:space="preserve">
-    <value>&lt;img src="/common/img/cn/common/mobile/logo3.png" alt="LS e-Mobility Solutions"&gt;</value>
+    <value>&lt;img src="/common/img/ko/common/mobile/logo3.png" alt="LS e-Mobility Solutions"&gt;</value>
   </data>
   <data name="m_section_careers.text" xml:space="preserve">
     <value />
@@ -215,21 +215,24 @@
     <value />
   </data>
   <data name="shortcut_tit1.text" xml:space="preserve">
-    <value>业务介绍</value>
+    <value>Nuestros Productos</value>
   </data>
   <data name="shortcut_tit2.text" xml:space="preserve">
-    <value>公司介绍</value>
+    <value>Nosotros</value>
   </data>
   <data name="shortcut_tit3.text" xml:space="preserve">
-    <value>客服中心</value>
+    <value>Centro de atención al cliente</value>
   </data>
   <data name="txt_privacy.text" xml:space="preserve">
-    <value>隐私政策</value>
+    <value>Políticas de privacidad</value>
   </data>
   <data name="txt_sitemap.text" xml:space="preserve">
-    <value>网站导览</value>
+    <value>Mapa del sitio</value>
+  </data>
+  <data name="bdu.text" xml:space="preserve">
+    <value>B.D.U</value>
   </data>
   <data name="btn_download.text" xml:space="preserve">
-    <value>&lt;span&gt;资料 下载&lt;/span&gt;</value>
+    <value>&lt;span&gt;Descarga&lt;span&gt;&lt;/span&gt;de material&lt;/span&gt;</value>
   </data>
 </root>
