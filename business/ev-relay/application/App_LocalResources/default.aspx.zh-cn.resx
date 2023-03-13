@@ -174,4 +174,7 @@
   <data name="vis_tit.text" xml:space="preserve">
     <value>LS电动科技 业务介绍</value>
   </data>
+  <data name="btn_download.text" xml:space="preserve">
+    <value>&lt;span&gt;资料 下载&lt;/span&gt;</value>
+  </data>
 </root>

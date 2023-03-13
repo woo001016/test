@@ -176,4 +176,13 @@
   <data name="vis_tit.text" xml:space="preserve">
     <value>LS e-모빌리티솔루션 사업소개</value>
   </data>
+  <data name="ess.text" xml:space="preserve">
+    <value>ESS</value>
+  </data>
+  <data name="ev_charger.text" xml:space="preserve">
+    <value>EV Charger</value>
+  </data>
+  <data name="btn_download.text" xml:space="preserve">
+    <value>&lt;span&gt;Material&lt;/span&gt;&lt;span&gt;Download&lt;/span&gt;</value>
+  </data>
 </root>
