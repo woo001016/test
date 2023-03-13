@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+	<siteMapNode url="~/" title="홈"  >
+		<siteMapNode url="~/business/" title="Business" resourceKey="business" priority="high">
+			<siteMapNode url="~/business/ev-relay" title="EV Relay" resourceKey="business_ev">
+				<siteMapNode url="~/business/ev-relay/info" title="Product Information" resourceKey="business_ev_info"/>
+				<siteMapNode url="~/business/ev-relay/application" title="Application" resourceKey="business_ev_application"/>
+			</siteMapNode>
+
+			<siteMapNode url="~/business/bdu" title="BDU" resourceKey="business_bdu"/>
+		</siteMapNode>
+
+
+		<siteMapNode url="~/company/" title="About Us" resourceKey="company" priority="high">
+			<siteMapNode url="~/company/ceo" title="CEO Message" resourceKey="company_ceo"/>
+			<siteMapNode url="~/company/philosophy" title="Business Philosophy" resourceKey="company_philosophy">
+				<siteMapNode url="~/company/philosophy/lspartnership" title="LSpartnership" resourceKey="company_philosophy_lspartnership"/>
+				<siteMapNode url="~/company/philosophy/ethics" title="Ethics Management" resourceKey="company_philosophy_ethics"/>
+			</siteMapNode>
+			<siteMapNode url="~/company/vision" title="VISION" resourceKey="company_vision"/>
+			<siteMapNode url="~/company/ci" title="CI" resourceKey="company_ci"/>
+			<siteMapNode url="~/company/history" title="History" resourceKey="company_history"/>
+			<siteMapNode url="~/company/place" title="Global Network" resourceKey="company_place"/>
+			<siteMapNode url="~/company/pr" title="News Center" resourceKey="company_pr"/>
+		</siteMapNode>
+
+		<siteMapNode url="~/customer/" title="CS Center" resourceKey="customer" priority="high">
+			<siteMapNode url="~/customer/contactus" title="Contact Information" resourceKey="customer_contactus"/>
+			<siteMapNode url="~/customer/qna" title="Online Inquiry" resourceKey="customer_qna"/>
+			<siteMapNode url="~/customer/notice" title="Notice" resourceKey="customer_notice"/>
+		</siteMapNode>
+
+	</siteMapNode>
+</siteMap>
+

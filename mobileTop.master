@@ -1,0 +1,249 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="mobileTop.master.cs" Inherits="MobileTopMaster" %>
+
+<!DOCTYPE html>
+<html lang="ko" runat="server" id="html_lang">
+
+<head>
+    <title runat="server" id="title">LS e-Mobility Solutions</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="imagetoolbar" content="no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <asp:PlaceHolder runat="server" ID="meta_ko" Visible="false">
+        <meta name="keywords" content="LS e-모빌리티솔루션, 전기차용 부품, 산업용 릴레이, 전기차용 릴레이, BDU, 파워 릴레이 어셈블리, LS e-Mobility Solutions, LS이모빌리티솔루션, 엘에스이모빌리티솔루션">
+        <meta name="description" content="2022년 4월 1일 부로 LS e-Mobility Solutions이 글로벌 친환경 전기차 분야에 전문 Solution provider의 비전을 가지고 새로운 사명으로 새롭게 시작합니다">
+    </asp:PlaceHolder>
+    <asp:PlaceHolder runat="server" ID="meta_en" Visible="false">
+        <meta name="keywords" content="LS e-Mobility Solutions, Electric Vehicle Parts, industrial Relays, Electric Vehicle Relay, BDU, PRA">
+        <meta name="description" content="Starting April 1st 2022, LS e-Mobility Solutions began anew with the vision of providing innovative Solutions for the global eco-friendly electric vehicle industry">
+    </asp:PlaceHolder>
+    <asp:PlaceHolder runat="server" ID="meta_cn" Visible="false">
+        <meta name="keywords" content="LS e-Mobility Solutions, Electric Vehicle Parts, industrial Relays, Electric Vehicle Relay, BDU, PRA">
+        <meta name="description" content="Starting April 1st 2022, LS e-Mobility Solutions began anew with the vision of providing innovative Solutions for the global eco-friendly electric vehicle industry">
+    </asp:PlaceHolder>
+    
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="LS e-Mobility Solutions">
+    <meta property="og:description" content="Future Solutions Now">
+    <meta property="og:image" content="https://www.lsems.com/common/img/og_image.png">
+    <meta property="og:url" content="https://www.lsems.com">
+    <meta name="naver-site-verification" content="f73e380e846d95979561bb9c652945376413c9dc" />    
+    <meta name="google-site-verification" content="s7SYBpYnz1e01UG83K5Idh3TvbQSFOI2cm_991VcrJA" />
+
+    <asp:ContentPlaceHolder ID="head_meta" runat="server" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NYYPG14NLF"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-NYYPG14NLF');
+    </script>
+
+    <script type="text/javascript" src="/common/js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="/ko/assets/jquery/jquery-ui/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="/ko/assets/jquery/wisekit/form.js"></script>
+    <script type="text/javascript" src="/assets/jquery/wisekit/cookie.js"></script>
+    <script type="text/javascript" src="/common/js/site/common.js"></script>
+    <script type="text/javascript" src="/assets/angular/1.4.8/angular.js"></script>
+    <script src="/assets/angular/angular-sanitize.js"></script>
+    <script type="text/javascript" src="/assets/moment/moment-with-locales.min.js"></script>
+    <script type="text/javascript" src="/assets/angular/angular-moment.min.js"></script>
+    <script type="text/javascript" src="/common/js/angular/paging.js"></script>
+    <script type="text/javascript" src="/common/js/site/angular-app.js?v=1"></script>
+    <script type="text/javascript" src="/<%:Lang.Current %>/common/js/site/menu"></script>
+    <script type="text/javascript" src="/common/js/site/menuController.js"></script>
+    <script type="text/javascript" src="/common/js/site/gnb.js"></script>
+    <link rel="shortcut icon" href="/common/img/ko/common/favicon.ico" />
+
+    <link href="/common/css/swiper.min.css" rel="stylesheet" type="text/css" media="screen,print">
+    <link href="/common/css/mobile.ui.css" rel="stylesheet" type="text/css" media="screen,print">
+    <asp:PlaceHolder runat="server" ID="css_en" Visible="false">
+        <link href="/common/css/mobile.ui.en.css" rel="stylesheet" type="text/css" media="screen,print">
+    </asp:PlaceHolder>
+    <asp:PlaceHolder runat="server" ID="css_cn" Visible="false">
+        <link href="/common/css/mobile.ui.cn.css" rel="stylesheet" type="text/css" media="screen,print">
+    </asp:PlaceHolder>
+    <script type="text/javascript" src="/common/js/swiper.min.js"></script>
+    <script type="text/javascript" src="/common/js/common-pub-mo.js"></script>
+    <script type="text/javascript" src="/common/js/page-pub-mo.js"></script>
+
+    <!-- gsap -->
+    <script src="/assets/gsap/gsap.min.js"></script>
+    <script src="/assets/gsap/ScrollTrigger.min.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            commonPub.common();
+        })
+    </script>
+
+    <asp:ContentPlaceHolder ID="head_script" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body id="bodyTag" runat="server" ng-app="ls">
+    <!-- header -->
+    <header id="header">
+        <div class="header_wrapper">
+            <h1 class="hd_logo">
+                <a href="<%:Lang.Href("/") %>"><span class="sr_only">LS e-Mobility Solutions</span></a>
+            </h1>
+
+            <div class="hd_right">
+                <!-- 언어선택 -->
+                <div class="language_wrapper">
+                    <div class="current"><asp:Literal runat="server" ID="lb_lang"/></div>
+                    <div class="layer">
+                        <a href="#" data-act="lang" data-val="ko">KO</a>
+                        <a href="#" data-act="lang" data-val="en">EN</a>
+                        <a href="#" data-act="lang" data-val="cn">CN</a>
+                    </div>
+                </div>
+                <!--// -->
+
+                <!-- 전체메뉴 버튼 -->
+                <button type="button" class="btn_menu_open" onclick="commonPub.allMenuOpen()"><span class="sr_only">전체메뉴보기</span></button>
+                <!--// -->
+            </div>
+        </div>
+    </header>
+
+
+
+
+    <!-- 전체메뉴 레이어 -->
+    <div class="all_menu_layer ">
+        <div class="fix_container">
+            <div class="logo">
+                <a href="<%:Lang.Href("/") %>"><span class="sr_only">LS e-Mobility Solutions</span></a>
+            </div>
+            <button type="button" class="btn_menu_close" onclick="commonPub.allMenuClose()"><span class="sr_only">전체메뉴닫기</span></button>
+        </div>
+        <div class="menu_container">
+            <nav id="lnb">
+                <ul id="lnb_menu_container">
+                    <!--<li>
+                        <a class="depth1" href="#">사업소개</a>
+                        <ul class="depth2">
+                            <li><a href="#">EV Relay</a></li>
+                            <li><a href="#">BDU</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="depth1" href="#">기업소개</a>
+                        <ul class="depth2">
+                            <li><a href="#">CEO 인사말</a></li>
+                            <li><a href="#">경영철학</a></li>
+                            <li><a href="#">VISION</a></li>
+                            <li><a href="#">CI</a></li>
+                            <li><a href="#">연혁</a></li>
+                            <li><a href="#">사업장</a></li>
+                            <li><a href="#">홍보</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="depth1" href="#">인재경영</a>
+                        <ul class="depth2">
+                            <li><a href="#">인재상</a></li>
+                            <li><a href="#">복리후생</a></li>
+                            <li><a href="#">채용공고</a></li>
+                            <li><a href="#">채용문의</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="depth1" href="#">고객지원</a>
+                        <ul class="depth2">
+                            <li><a href="#">담당자 정보</a></li>
+                            <li><a href="#">온라인 문의</a></li>
+                            <li><a href="#">공지사항</a></li>
+                        </ul>
+                    </li>-->
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <!--// 전체메뉴 레이어 -->
+    <!--// header -->
+
+    <form runat="server" id="form" autocomplete="off">
+
+        <asp:ContentPlaceHolder ID="body_visual" runat="server" />
+
+        <asp:ContentPlaceHolder ID="body_breadcrumb" runat="server" />
+
+        <asp:ContentPlaceHolder ID="body" runat="server" />
+
+    </form>
+
+    <div id="pageTop">
+        <div class="inner">
+            <button type="button" class="btn_top"><span>top</span></button>
+        </div>
+    </div> 
+
+    <footer id="footer">
+        <div class="ft_top_wrapper">
+            <div class="container">
+                <div class="ft_menu">
+                    <ul class="clear">
+                        <li><a href="<%:Lang.Href("/etc/privacy") %>"><asp:Literal runat="server" meta:resourcekey="txt_privacy"/></a></li>
+                        <li>
+                            <button type="button" onclick="commonPub.allMenuOpen()"><span><asp:Literal runat="server" meta:resourcekey="txt_sitemap"/></span></button>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="familysite">
+                    <button type="button" class="btn_family"><span>LS FAMILY SITE</span></button>
+                    <div class="family_layer">
+                        <ul>
+                            <li><a href="<asp:Literal runat="server" meta:resourcekey="txt_href1"/>" target="_blank"><asp:Literal runat="server" meta:resourcekey="txt_f_1"/></a></li>
+                            <li><a href="<asp:Literal runat="server" meta:resourcekey="txt_href2"/>" target="_blank"><asp:Literal runat="server" meta:resourcekey="txt_f_2"/></a></li>
+                            <li><a href="<asp:Literal runat="server" meta:resourcekey="txt_href3"/>" target="_blank"><asp:Literal runat="server" meta:resourcekey="txt_f_3"/></a></li>
+                            <li><a href="<asp:Literal runat="server" meta:resourcekey="txt_href4"/>" target="_blank"><asp:Literal runat="server" meta:resourcekey="txt_f_4"/></a></li>
+                            <li><a href="<asp:Literal runat="server" meta:resourcekey="txt_href5"/>" target="_blank"><asp:Literal runat="server" meta:resourcekey="txt_f_5"/></a></li>
+                            <li><a href="<asp:Literal runat="server" meta:resourcekey="txt_href6"/>" target="_blank"><asp:Literal runat="server" meta:resourcekey="txt_f_6"/></a></li>
+                            <li><a href="<asp:Literal runat="server" meta:resourcekey="txt_href7"/>" target="_blank"><asp:Literal runat="server" meta:resourcekey="txt_f_7"/></a></li>
+                            <li><a href="<asp:Literal runat="server" meta:resourcekey="txt_href8"/>" target="_blank"><asp:Literal runat="server" meta:resourcekey="txt_f_8"/></a></li>
+                            <li><a href="<asp:Literal runat="server" meta:resourcekey="txt_href9"/>" target="_blank"><asp:Literal runat="server" meta:resourcekey="txt_f_9"/></a></li>
+                            <li><a href="<asp:Literal runat="server" meta:resourcekey="txt_href10"/>" target="_blank"><asp:Literal runat="server" meta:resourcekey="txt_f_10"/></a></li>
+                            <li><a href="<asp:Literal runat="server" meta:resourcekey="txt_href11"/>" target="_blank"><asp:Literal runat="server" meta:resourcekey="txt_f_11"/></a></li>
+                            <li><a href="<asp:Literal runat="server" meta:resourcekey="txt_href12"/>" target="_blank"><asp:Literal runat="server" meta:resourcekey="txt_f_12"/></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="ft_bottom_wrapper">
+            <div class="container">
+                <div class="ft_logo">
+                    <a href="<%:Lang.Href("/") %>">
+                        <img src="/common/img/ko/common/mobile/logo3.png" alt="LS e-Mobility Solutions">
+                    </a>
+                </div>
+                <div class="ft_info clear">
+                    <p><asp:Literal runat="server" meta:resourcekey="txt_ceo"/></p>
+                    <p><asp:Literal runat="server" meta:resourcekey="txt_registration"/></p>
+                    <p><asp:Literal runat="server" meta:resourcekey="txt_addr"/></p>
+                    <p><asp:Literal runat="server" meta:resourcekey="txt_zipcode"/></p>
+                </div>
+                <p class="copyright">Copyright © 2022 LS e-Mobility Solutions.<br>All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+    <div class="stnd_bar"></div>
+
+    <asp:ContentPlaceHolder ID="ex_frm" runat="server" />
+
+</body>
+
+</html>

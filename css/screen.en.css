@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+/******************** 영문 ********************/
+
+/* header */
+
+.header_wrapper #gnb {
+  width: 37%;
+}
+
+.header_wrapper #gnb > ul > li {
+  width: 33.33%;
+}
+
+.header_wrapper #gnb .depth1 {
+  font-weight: 700;
+}
+
+/* 전체메뉴 레이어 */
+
+.all_menu_layer .sitemap > ul > li:not(:first-child) {
+  margin-top: 60px;
+}
+
+.all_menu_layer .sitemap .depth2 li {
+  margin-bottom: 30px;
+}
+
+.all_menu_layer .sitemap .depth2 li:not(:last-child) {
+  margin-right: 70px;
+}
+/*# sourceMappingURL=../../sourcemaps/common/css/screen.en.css.map */

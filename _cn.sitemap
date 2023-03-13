@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+	<siteMapNode url="~/" title="홈"  >
+		<siteMapNode url="~/business/" title="业务介绍" resourceKey="business" priority="high">
+			<siteMapNode url="~/business/ev-relay" title="EV Relay" resourceKey="business_ev">
+				<siteMapNode url="~/business/ev-relay/info" title="产品信息" resourceKey="business_ev_info"/>
+				<siteMapNode url="~/business/ev-relay/application" title="应用领域" resourceKey="business_ev_application"/>
+			</siteMapNode>
+
+			<siteMapNode url="~/business/bdu" title="BDU" resourceKey="business_bdu"/>
+		</siteMapNode>
+
+
+		<siteMapNode url="~/company/" title="公司介绍" resourceKey="company" priority="high">
+			<siteMapNode url="~/company/ceo" title="CEO 致辞" resourceKey="company_ceo"/>
+			<siteMapNode url="~/company/philosophy" title="经营理念" resourceKey="company_philosophy">
+				<siteMapNode url="~/company/philosophy/lspartnership" title="LSpartnership" resourceKey="company_philosophy_lspartnership"/>
+			</siteMapNode>
+			<siteMapNode url="~/company/vision" title="VISION" resourceKey="company_vision"/>
+			<siteMapNode url="~/company/ci" title="CI" resourceKey="company_ci"/>
+			<siteMapNode url="~/company/history" title="公司沿革" resourceKey="company_history"/>
+			<siteMapNode url="~/company/place" title="事业布局" resourceKey="company_place"/>
+			<siteMapNode url="~/company/pr" title="宣传" resourceKey="company_pr"/>
+		</siteMapNode>
+
+		<siteMapNode url="~/customer/" title="客服中心" resourceKey="customer" priority="high">
+			<siteMapNode url="~/customer/contactus" title="负责人信息" resourceKey="customer_contactus"/>
+			<siteMapNode url="~/customer/qna" title="在线咨询" resourceKey="customer_qna"/>
+			<siteMapNode url="~/customer/notice" title="公告事项" resourceKey="customer_notice"/>
+		</siteMapNode>
+
+	</siteMapNode>
+</siteMap>
+
