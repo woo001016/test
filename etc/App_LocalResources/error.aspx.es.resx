@@ -118,13 +118,14 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btn_main.text" xml:space="preserve">
-    <value>返回主页</value>
+    <value>Go To Main</value>
   </data>
   <data name="tit_txt.text" xml:space="preserve">
-    <value>很抱歉给您服务带来不便</value>
+    <value>We apologize for the inconvenience using the service.</value>
   </data>
   <data name="txt_con.text" xml:space="preserve">
-    <value>您要访问的页面的地址输入错误，或地址已更改或删除，无法找到您请求的页面。&lt;br&gt;
-                            请再次确认您输入的地址是否正确。</value>
+    <value>The requested page could not be found because the address of the page you will visit was wrong,&lt;br&gt;
+                            has been changed or deleted.&lt;br&gt;
+                            Please check again if the address you entered is correct.</value>
   </data>
 </root>
