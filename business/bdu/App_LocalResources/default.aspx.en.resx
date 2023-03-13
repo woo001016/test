@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="center_box.text" xml:space="preserve">
+    <value>Costomer Requirement</value>
+  </data>
+  <data name="center_txt1.text" xml:space="preserve">
+    <value>Customer</value>
+  </data>
+  <data name="center_txt2.text" xml:space="preserve">
+    <value>ORDER TYPE</value>
+  </data>
+  <data name="con3_tit1.text" xml:space="preserve">
+    <value>BDU DESIGN</value>
+  </data>
+  <data name="con3_tit2.text" xml:space="preserve">
+    <value>Thermal &lt;br&gt;Analysis</value>
+  </data>
+  <data name="con3_tit3.text" xml:space="preserve">
+    <value>Random &lt;br&gt;Vibration &lt;br&gt;Analysis</value>
+  </data>
+  <data name="con3_tit4.text" xml:space="preserve">
+    <value>Insulation &lt;br&gt;Design</value>
+  </data>
+  <data name="con3_tit5.text" xml:space="preserve">
+    <value>Model &lt;br&gt;Analysis</value>
+  </data>
+  <data name="img1.text" xml:space="preserve">
+    <value>&lt;img src="/common/img/en/business/img_bdu_detail.jpg" alt="main component"&gt;</value>
+  </data>
+  <data name="info_ab_txt1.text" xml:space="preserve">
+    <value>Feedback Assessment &amp; Corrective Action</value>
+  </data>
+  <data name="info_a_txt1.text" xml:space="preserve">
+    <value>Product &amp; Process Design&lt;br&gt;Simulation&lt;br&gt;Component Sourcing&lt;br&gt;Prototype &amp; Pilot&lt;br&gt;Validation Testing&lt;br&gt;Production Launch</value>
+  </data>
+  <data name="info_b_txt1.text" xml:space="preserve">
+    <value>Process Design to Meet Build-to-Print&lt;br&gt;Prototype &amp; Pliot&lt;br&gt;Validation Testing&lt;br&gt;Production Launch</value>
+  </data>
+  <data name="info_txt1.text" xml:space="preserve">
+    <value>A BDU (Battery Disconnect Unit) is a module that consists of parts such as current sensors, pre-charge resistors and fuses.&lt;br&gt;BDUs are placed in between batteries and inverters. Our BDUs are made in accordance with the customer’s request.</value>
+  </data>
+  <data name="info_txt2.text" xml:space="preserve">
+    <value>Disconnect HV system&lt;br&gt;from emergencies situation</value>
+  </data>
+  <data name="info_txt3.text" xml:space="preserve">
+    <value>Reduce ripple noise for&lt;br&gt;HV system</value>
+  </data>
+  <data name="list_desc1.text" xml:space="preserve">
+    <value>Rated Current&lt;br&gt;
+                                                Rated Voltage&lt;br&gt;
+                                                Carry Current&lt;br&gt;
+                                                Contact Resistance&lt;br&gt;
+                                                Short Circuit Current&lt;br&gt;
+                                                Breakdown Voltage&lt;br&gt;
+                                                Insulation Resistance</value>
+  </data>
+  <data name="list_desc2.text" xml:space="preserve">
+    <value>Size&lt;br&gt;
+                                                Weight&lt;br&gt;
+                                                Layout&lt;br&gt;
+                                                Mounting Location&lt;br&gt;
+                                                IP Grade&lt;br&gt;
+                                                Mechanical Shock&lt;br&gt;
+                                                Random Vibration</value>
+  </data>
+  <data name="list_desc3.text" xml:space="preserve">
+    <value>Operating temperature&lt;br&gt;
+                                                Humidity&lt;br&gt;
+                                                Heat Shock&lt;br&gt;
+                                                Water Spray&lt;br&gt;
+                                                Salt Spray</value>
+  </data>
+  <data name="list_tit1.text" xml:space="preserve">
+    <value>Electrical &lt;br&gt;Performance</value>
+  </data>
+  <data name="list_tit2.text" xml:space="preserve">
+    <value>Physical &lt;br&gt;Information</value>
+  </data>
+  <data name="list_tit3.text" xml:space="preserve">
+    <value>Environmental &lt;br&gt;Stress</value>
+  </data>
+  <data name="list_txt1.text" xml:space="preserve">
+    <value>Additional components</value>
+  </data>
+  <data name="m_con3_tit2.text" xml:space="preserve">
+    <value>Thermal Analysis</value>
+  </data>
+  <data name="m_con3_tit3.text" xml:space="preserve">
+    <value>Insulation Design</value>
+  </data>
+  <data name="m_con3_tit4.text" xml:space="preserve">
+    <value>Random Vibration Analysis</value>
+  </data>
+  <data name="m_con3_tit5.text" xml:space="preserve">
+    <value>Model Analysis</value>
+  </data>
+  <data name="m_img1.text" xml:space="preserve">
+    <value>&lt;img src="/common/img/en/business/mobile/img_bdu_detail.jpg" alt="Main Component"&gt;</value>
+  </data>
+  <data name="m_info_txt1.text" xml:space="preserve">
+    <value>A BDU (Battery Disconnect Unit) is a module that consists of parts such as current sensors, pre-charge resistors and fuses. BDUs are placed in between batteries and inverters. Our BDUs are made in accordance with the customer’s request.</value>
+  </data>
+  <data name="m_info_txt2.text" xml:space="preserve">
+    <value>Disconnect HV system from emergencies situation</value>
+  </data>
+  <data name="m_info_txt3.text" xml:space="preserve">
+    <value>Reduce ripple noise for HV system</value>
+  </data>
+  <data name="m_list_desc1.text" xml:space="preserve">
+    <value>Rated Current&lt;br&gt;
+                                                Rated Voltage&lt;br&gt;
+                                                Carry Current&lt;br&gt;
+                                                Contact Resistance&lt;br&gt;
+                                                Short Circuit Current&lt;br&gt;
+                                                Breakdown Voltage&lt;br&gt;
+                                                Insulation Resistance</value>
+  </data>
+  <data name="m_list_desc2.text" xml:space="preserve">
+    <value>Size&lt;br&gt;
+                                                Weight&lt;br&gt;
+                                                Layout&lt;br&gt;
+                                                Mounting Location&lt;br&gt;
+                                                IP Grade&lt;br&gt;
+                                                Mechanical Shock&lt;br&gt;
+                                                Random Vibration</value>
+  </data>
+  <data name="m_list_desc3.text" xml:space="preserve">
+    <value>Operating temperature&lt;br&gt;
+                                                Humidity&lt;br&gt;
+                                                Heat Shock&lt;br&gt;
+                                                Water Spray&lt;br&gt;
+                                                Salt Spray</value>
+  </data>
+  <data name="m_list_tit1.text" xml:space="preserve">
+    <value>Electrical Performance</value>
+  </data>
+  <data name="m_list_tit2.text" xml:space="preserve">
+    <value>Physical Information</value>
+  </data>
+  <data name="m_list_tit3.text" xml:space="preserve">
+    <value>Environmental Stress</value>
+  </data>
+  <data name="m_list_txt1.text" xml:space="preserve">
+    <value>Additional &lt;br&gt;components</value>
+  </data>
+  <data name="txt_tit1.text" xml:space="preserve">
+    <value>Development Process</value>
+  </data>
+  <data name="txt_tit2.text" xml:space="preserve">
+    <value>Main Component</value>
+  </data>
+  <data name="txt_tit3.text" xml:space="preserve">
+    <value>Design Process</value>
+  </data>
+  <data name="txt_tit4.text" xml:space="preserve">
+    <value>Reference</value>
+  </data>
+  <data name="type_txt1.text" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="type_txt2.text" xml:space="preserve">
+    <value>Build to Print</value>
+  </data>
+  <data name="vis_tit.text" xml:space="preserve">
+    <value>EV Relay</value>
+  </data>
+</root>
